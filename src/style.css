@@ -1,15 +1,22 @@
 html,
-body,
 #root {
-  margin: 0;
+  margin: 0rem;
   padding: 0;
   height: 100%;
-  background-color: #f7f8f8;
+  background-color: #fcfcfd;
 }
 
+.body {
+  max-width: 100rem;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+body,
 h1,
 h2,
 h3,
+h4,
 p {
   margin: 0;
   padding: 0;
@@ -23,12 +30,14 @@ p {
 .header {
   font-size: 0.95rem;
   background-color: #ffffff;
+  box-shadow: 0 0.1rem 2px rgba(0, 0, 0, 0.04);
   font-weight: 500;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 1.5rem;
-  height: 80px;
+  max-width: 110rem;
+  padding: 0 1.3rem 0 1rem;
+  height: 5rem;
 }
 
 .nav-items li:hover {
@@ -36,10 +45,60 @@ p {
   color: green;
 }
 
-.restro {
+.res-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2.5rem;
+}
+
+.restro-card {
+  width: 13rem;
+  height: auto;
+  padding: 0.4rem 0.4rem;
+  transition: transform 0.1s ease-in-out;
+}
+
+.restro-image {
+  height: 8rem;
+  width: 100%;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  padding-bottom: 0.7rem;
+}
+
+.restro-card:hover {
+  transform: scale(0.95);
+  cursor: pointer;
+}
+
+.restro-info {
+  max-width: 100%;
   display: flex;
   flex-direction: column;
   gap: 0.4rem;
+}
+
+.cuisines {
+  font-size: 0.9rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.restro-info h4 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.nav-items a {
+  text-decoration: none;
+  color: inherit;
 }
 
 .nav-items ul {
@@ -57,17 +116,8 @@ p {
   width: auto;
 }
 
-.desc {
-  margin: 1rem;
-}
-
-.restro-container {
-  width: 15rem;
-  margin: 0.5rem 2rem;
-  img {
-    width: 60%;
-    height: 60%;
-  }
+.logo:hover {
+  cursor: pointer;
 }
 
 .search {

@@ -1,1 +1,1 @@
-Food Ordering Website
+Food Ordering Site
