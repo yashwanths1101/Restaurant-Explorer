@@ -1,14 +1,8 @@
 import RESTRO_IMAGE_URL from '../utils/constants'
 
 const RestaurantCard = props => {
-  const {
-    name,
-    avgRating,
-    cloudinaryImageId,
-    costForTwo,
-    sla: { slaString: time },
-    cuisines
-  } = props?.data?.card?.card?.info
+  const { name, avgRating, cloudinaryImageId, costForTwo, time, cuisines } =
+    props?.data?.info
   return (
     <div className='restro-card'>
       <div className='restro-image'>
