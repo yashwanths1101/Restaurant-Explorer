@@ -9,7 +9,7 @@ html,
 .body {
   max-width: 100rem;
   margin: 0 auto;
-  padding: 0 2rem;
+  padding: 0 3rem;
 }
 
 body,
@@ -40,6 +40,24 @@ p {
   height: 5rem;
 }
 
+.top-rated {
+  padding: 1rem 0;
+}
+
+.top-rated button {
+  padding: 0.5rem 0.5rem;
+  color: black;
+  font-weight: bold;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+}
+
+.top-rated button:hover {
+  cursor: pointer;
+}
+
+.top-rated button:active {
+  background-color: rgb(203, 203, 203);
+}
 .nav-items li:hover {
   cursor: pointer;
   color: green;
@@ -49,10 +67,16 @@ p {
   display: flex;
   flex-wrap: wrap;
   gap: 1.5rem;
+  justify-content: center;
+  max-width: 90%;
+  margin: 0 auto;
 }
 
 .restro-card {
-  width: 13rem;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  background-color: rgb(241, 241, 241);
+  width: 14rem;
   height: auto;
   padding: 0.4rem 0.4rem;
   transition: transform 0.1s ease-in-out;
