@@ -1,6 +1,8 @@
-import logo from '../assets/logo.svg'
+import logo from '../../assets/logo.svg'
+import { useState } from 'react'
 
-const HeadingComponent = () => {
+const HeaderComponent = () => {
+  const [darkModeToggle, setDarkModeToggle] = useState(false)
   return (
     <div className='header'>
       <div className='logo-container'>
@@ -8,6 +10,7 @@ const HeadingComponent = () => {
           <img className='logo' src={logo}></img>
         </a>
       </div>
+
       <div className='nav-items'>
         <ul>
           <li>
@@ -22,4 +25,4 @@ const HeadingComponent = () => {
   )
 }
 
-export default HeadingComponent
+export default HeaderComponent

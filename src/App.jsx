@@ -1,12 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import HeadingComponent from './components/Heading'
+import HeaderComponent from './components/Header/Header'
 import BodyComponent from './components/Body'
-
+import { useState } from 'react'
 const AppLayout = () => {
   return (
     <div className='app'>
-      <HeadingComponent />
+      <HeaderComponent />
       <BodyComponent />
     </div>
   )
