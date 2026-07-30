@@ -1,4 +1,5 @@
-import RESTRO_IMAGE_URL from '../utils/constants'
+import { RESTRO_IMAGE_URL, starIcon } from '../utils/constants.jsx'
+import default_restaurant_logo from '../assets/Default_Restaurant_LOGO.jpg'
 
 const RestaurantCard = props => {
   const { name, avgRating, cloudinaryImageId, costForTwo, cuisines } =
@@ -8,12 +9,22 @@ const RestaurantCard = props => {
   return (
     <div className='restro-card'>
       <div className='restro-image'>
-        <img alt='' src={RESTRO_IMAGE_URL + cloudinaryImageId}></img>
+        <img
+          alt=''
+          src={RESTRO_IMAGE_URL + cloudinaryImageId}
+          onError={e => (e.target.src = default_restaurant_logo)}
+        ></img>
       </div>
       <div className='restro-info'>
         <h4>{name}</h4>
         <p className='cuisines'>{cuisines.join(', ')}</p>
-        <p>{avgRating}</p>
+        {avgRating && (
+          <div className='rating'>
+            <span>{avgRating}</span>
+            <span className='star-container'> {starIcon}</span>
+          </div>
+        )}
+
         <p>{costForTwo}</p>
         <p>{time}</p>
       </div>

@@ -7,9 +7,9 @@ const About = () => {
 
       <div>
         <p>
-          Restaurant Explorer is a modern restaurant browsing platform that
-          enables users to discover restaurants through an intuitive and
-          responsive interface.
+          Restaurant Explorer is a restaurant browsing platform that allows
+          users to discover, search and filter restaurants based on their
+          preference.
         </p>
       </div>
 
