@@ -1,0 +1,1165 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "pageOffset": {
+      "nextOffset": "CJhlELQ4KIDg3rj2wLjyBjCnEzgE",
+      "widgetOffset": {
+        "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo": "99",
+        "inlineFacetFilter": "",
+        "restaurantCountWidget": ""
+      }
+    },
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": {
+              "columns": 4
+            },
+            "id": "restaurant_grid_listing_v2",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.seo.widgets.v1.FoodRestaurantGridListingInfo",
+                "restaurants": [
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1341493",
+                      "name": "Vinayaka Hotels",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/2/28/ca9360cc-59c9-478c-b976-8d6c7616f4fa_1341493.jpg",
+                      "locality": "Governorpet",
+                      "areaName": "Governorpet",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Chinese",
+                        "Biryani",
+                        "South Indian",
+                        "Fast Food",
+                        "North Indian",
+                        "Indian",
+                        "Mughlai"
+                      ],
+                      "avgRating": 2.8,
+                      "parentId": "461417",
+                      "avgRatingString": "2.8",
+                      "totalRatingsString": "10",
+                      "sla": {
+                        "deliveryTime": 50,
+                        "lastMileTravel": 17.5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "45-50 mins",
+                        "lastMileTravelString": "17.5 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 10:30 am, FRIDAY"
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/vinayaka-hotels-governorpet-rest1341493",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1411374",
+                      "name": "Sugunamma Chicken Center",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/7/21/e69c604e-7ecb-4cf7-bd50-6d3296ca0758_1411374.jpg",
+                      "locality": "Mangalagiri",
+                      "areaName": "Mangalagiri",
+                      "costForTwo": "₹400 for two",
+                      "cuisines": [
+                        "Meat",
+                        "Indian",
+                        "Biryani"
+                      ],
+                      "parentId": "804260",
+                      "avgRatingString": "NEW",
+                      "sla": {
+                        "deliveryTime": 57,
+                        "lastMileTravel": 14.3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "55-65 mins",
+                        "lastMileTravelString": "14.3 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 11:25 am, FRIDAY"
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/sugunamma-chicken-center-mangalagiri-rest1411374",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1362754",
+                      "name": "The Food Club",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/10/15/2100e958-04d8-4663-9696-1c8ff9126937_1231515.JPG",
+                      "locality": "Mangalagiri",
+                      "areaName": "Mangalagiri",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Indian",
+                        "Chinese",
+                        "Italian"
+                      ],
+                      "parentId": "208358",
+                      "avgRatingString": "NEW",
+                      "sla": {
+                        "deliveryTime": 51,
+                        "lastMileTravel": 15.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "50-60 mins",
+                        "lastMileTravelString": "15.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 12:30 pm, FRIDAY"
+                      },
+                      "badges": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "ITEMS",
+                        "subHeader": "AT ₹69"
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/the-food-club-mangalagiri-rest1362754",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1162468",
+                      "name": "Akshaya Food And Spices",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/7/30/4089173f-5410-47f4-a1cb-fbbb6e1e9e9a_1162468.jpg",
+                      "locality": "Governorpet",
+                      "areaName": "Governorpet",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Andhra",
+                        "Bakery",
+                        "Beverages",
+                        "Home Food",
+                        "Ice Cream Cakes",
+                        "Fast Food",
+                        "Burgers",
+                        "Cafe"
+                      ],
+                      "avgRating": 4.5,
+                      "parentId": "666993",
+                      "avgRatingString": "4.5",
+                      "totalRatingsString": "5",
+                      "sla": {
+                        "deliveryTime": 51,
+                        "lastMileTravel": 14.2,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "50-60 mins",
+                        "lastMileTravelString": "14.2 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 3:45 pm, FRIDAY"
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/akshaya-food-and-spices-governorpet-rest1162468",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1374439",
+                      "name": "NANDU MOMOS",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/5/8/7dad4c8c-f15a-4753-a9bc-6a36aab303a2_1374439.jpg",
+                      "locality": "Mangalagiri",
+                      "areaName": "Mangalagiri",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Beverages",
+                        "Street Food",
+                        "Snacks",
+                        "North Eastern",
+                        "Fast Food",
+                        "North Indian",
+                        "Asian",
+                        "Tibetan",
+                        "Chinese"
+                      ],
+                      "avgRating": 4.5,
+                      "parentId": "555620",
+                      "avgRatingString": "4.5",
+                      "totalRatingsString": "6",
+                      "sla": {
+                        "deliveryTime": 46,
+                        "lastMileTravel": 13.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "45-50 mins",
+                        "lastMileTravelString": "13.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 4 pm, FRIDAY"
+                      },
+                      "badges": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "20% OFF",
+                        "subHeader": "ABOVE ₹600",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/nandu-momos-mangalagiri-rest1374439",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1289818",
+                      "name": "The Millet House",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/3/7/75d1890b-965e-4e34-9739-c07662e02fca_1289818.jpg",
+                      "locality": "Mangalagiri",
+                      "areaName": "Mangalagiri",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Healthy Food"
+                      ],
+                      "avgRating": 3.5,
+                      "veg": true,
+                      "parentId": "211449",
+                      "avgRatingString": "3.5",
+                      "totalRatingsString": "31",
+                      "sla": {
+                        "deliveryTime": 50,
+                        "lastMileTravel": 14.5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "45-50 mins",
+                        "lastMileTravelString": "14.5 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 6:30 pm, FRIDAY"
+                      },
+                      "badges": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "ITEMS",
+                        "subHeader": "AT ₹50"
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/the-millet-house-mangalagiri-rest1289818",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1402907",
+                      "name": "Pujitha Tiffins And Fast Foods",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/7/5/21ffa83f-5a88-4199-8f95-a665acc87c48_1402907.jpg",
+                      "locality": "Governorpet",
+                      "areaName": "Governorpet",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "South Indian",
+                        "Chinese",
+                        "Indian"
+                      ],
+                      "parentId": "799598",
+                      "avgRatingString": "NEW",
+                      "sla": {
+                        "deliveryTime": 50,
+                        "lastMileTravel": 14.4,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "45-50 mins",
+                        "lastMileTravelString": "14.4 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 7:20 pm, FRIDAY"
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/pujitha-tiffins-and-fast-foods-governorpet-rest1402907",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1352315",
+                      "name": "Fresh Fruit Bowl",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/1/2/4383a289-fcd4-444c-ae83-ea01035137a9_1296761.jpg",
+                      "locality": "Governorpet",
+                      "areaName": "Governorpet",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Juices",
+                        "Salads",
+                        "Healthy Food",
+                        "Beverages"
+                      ],
+                      "avgRating": 4,
+                      "veg": true,
+                      "parentId": "493555",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "7",
+                      "sla": {
+                        "deliveryTime": 44,
+                        "lastMileTravel": 12.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "12.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 8:25 pm, FRIDAY"
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/fresh-fruit-bowl-governorpet-rest1352315",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1254474",
+                      "name": "Sri Skandha Foods",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/1/19/775402af-bc4b-4ddf-a650-b1a3ec8cf9e1_1254474.jpg",
+                      "locality": "Governorpet",
+                      "areaName": "Governorpet",
+                      "costForTwo": "₹300 for two",
+                      "cuisines": [
+                        "Snacks"
+                      ],
+                      "parentId": "714747",
+                      "avgRatingString": "--",
+                      "sla": {
+                        "deliveryTime": 52,
+                        "lastMileTravel": 16.9,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "50-60 mins",
+                        "lastMileTravelString": "16.9 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 4 pm, MONDAY"
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/sri-skandha-foods-governorpet-rest1254474",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1102105",
+                      "name": "RK Restaurant",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/24/96878918-4f90-4140-ae1a-978a4f01ec94_1102105.jpg",
+                      "locality": "Governorpet",
+                      "areaName": "Governorpet",
+                      "costForTwo": "₹300 for two",
+                      "cuisines": [
+                        "Andhra",
+                        "Biryani",
+                        "South Indian"
+                      ],
+                      "avgRating": 5,
+                      "parentId": "391024",
+                      "avgRatingString": "5.0",
+                      "totalRatingsString": "5",
+                      "sla": {
+                        "deliveryTime": 53,
+                        "lastMileTravel": 17.1,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "50-60 mins",
+                        "lastMileTravelString": "17.1 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Temporarily closed for delivery"
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/rk-restaurant-governorpet-rest1102105",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1291892",
+                      "name": "Just Eat Plus",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/12/19/8f13d75f-bb21-43ce-bc1f-e3157dac6265_1291892.jpg",
+                      "locality": "Mangalagiri",
+                      "areaName": "Mangalagiri",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Andhra",
+                        "Biryani",
+                        "Snacks"
+                      ],
+                      "avgRating": 4.3,
+                      "parentId": "735781",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "27",
+                      "sla": {
+                        "deliveryTime": 47,
+                        "lastMileTravel": 15.1,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "45-50 mins",
+                        "lastMileTravelString": "15.1 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Temporarily closed for delivery"
+                      },
+                      "badges": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹100 OFF",
+                        "subHeader": "ABOVE ₹599",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/just-eat-plus-mangalagiri-rest1291892",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "488783",
+                      "name": "Eat Street by Minerva Grand",
+                      "cloudinaryImageId": "rhueobrpjlgxnbhuwozw",
+                      "locality": "Kt Road",
+                      "areaName": "Islampet",
+                      "costForTwo": "₹150 for two",
+                      "cuisines": [
+                        "Pizzas",
+                        "Fast Food",
+                        "Desserts",
+                        "Sweets"
+                      ],
+                      "avgRating": 4.2,
+                      "parentId": "500505",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "195",
+                      "sla": {
+                        "deliveryTime": 52,
+                        "lastMileTravel": 17,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "50-60 mins",
+                        "lastMileTravelString": "17.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Temporarily closed for delivery"
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/eat-street-by-minerva-grand-kt-road-islampet-rest488783",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1015026",
+                      "name": "Hungry",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/24/26fa5696-9142-4b1a-b9dc-4d22dd8e99d2_1015026.sss.jpg",
+                      "locality": "Mangalagiri",
+                      "areaName": "Mangalagiri",
+                      "costForTwo": "₹199 for two",
+                      "cuisines": [
+                        "Chinese",
+                        "Bakery"
+                      ],
+                      "avgRating": 3.6,
+                      "parentId": "104558",
+                      "avgRatingString": "3.6",
+                      "totalRatingsString": "62",
+                      "sla": {
+                        "deliveryTime": 50,
+                        "lastMileTravel": 14.3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "45-50 mins",
+                        "lastMileTravelString": "14.3 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Temporarily closed for delivery"
+                      },
+                      "badges": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹200 OFF",
+                        "subHeader": "ABOVE ₹399",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/hungry-mangalagiri-rest1015026",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1183712",
+                      "name": "Siddu Falooda Centre",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/8/23/05359025-0403-421b-ad1b-a3737d69cd78_1183712.jpg",
+                      "locality": "Governorpet",
+                      "areaName": "Governorpet",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Ice Cream",
+                        "Juices",
+                        "Snacks"
+                      ],
+                      "avgRating": 3.7,
+                      "veg": true,
+                      "parentId": "678761",
+                      "avgRatingString": "3.7",
+                      "totalRatingsString": "21",
+                      "sla": {
+                        "deliveryTime": 41,
+                        "lastMileTravel": 17.9,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "17.9 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Temporarily closed for delivery"
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/siddu-falooda-centre-governorpet-rest1183712",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1270603",
+                      "name": "Sakshi Ganapathi Tiffins",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/1/24/6405244d-bb6c-4930-bdca-7b8dec85a0e7_1270603.jpg",
+                      "locality": "Mangalagiri",
+                      "areaName": "Mangalagiri",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Fast Food"
+                      ],
+                      "avgRating": 4.3,
+                      "veg": true,
+                      "parentId": "723293",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "45",
+                      "sla": {
+                        "deliveryTime": 50,
+                        "lastMileTravel": 14.2,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "45-50 mins",
+                        "lastMileTravelString": "14.2 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Temporarily closed for delivery"
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/sakshi-ganapathi-tiffins-mangalagiri-rest1270603",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  }
+                ],
+                "theme": "SeoRestaurantListingGridWidget"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "nextFetch": 3
+  },
+  "tid": "eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODUzNDE3MjAsImlhdCI6MTc4NTMzODEyMCwic2Vzc2lvbl9kYXRhIjoiRUQ5OEN1blZnS05mQU5MVVN3OWorK3g3bDFQNGlhRjJ1ak10bTFFMkUwcmRxZW9BSnpJUEdwVDRyb2JqWTlCTEdMYXFvclFTbHp4ZzlBYmlMZ2lhMXlFaVI4L2hPcHNjR284c2VBc2tRQ2xCTzhpVThzekUyNnF1YU1PMnJid3ZXdnlvODFyWmx2dENPWUUyOWdvc3VoNkIrY0tFcElaZ3RuME9vQkEvSUxqRTdja2hVY3dJWFJEeGEyNkdxQzlaeW4rTlE0ZWlzcWJsM29VSXNQRS90UT09Iiwic2lkIjoic3I4Mjk1MTYzNjQtZGViMy00NGE4LWE1MWMtNjYxZjg2ODk3Iiwic3ViIjoiMDU5NTJhMTAtZDc5Yi00YjQwLThlNjYtMGZlNDA3ZDZmMThhIiwidXNlcl9pZCI6IjAifQ.v8AhouZGkjYKjvU4UVDYSvhrmbgCwuRAW8-Ko_gSX8g",
+  "sid": "sr829516364-deb3-44a8-a51c-661f86897",
+  "deviceId": "4655b1a3-bcb7-2ba5-d874-d91dda20cb04",
+  "csrfToken": null
+}

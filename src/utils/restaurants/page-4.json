@@ -1,0 +1,1167 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "pageOffset": {
+      "nextOffset": "CJhlELQ4KIDg3rj2wLjyBjCnEzgE",
+      "widgetOffset": {
+        "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo": "54",
+        "inlineFacetFilter": "",
+        "restaurantCountWidget": ""
+      }
+    },
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": {
+              "columns": 4
+            },
+            "id": "restaurant_grid_listing_v2",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.seo.widgets.v1.FoodRestaurantGridListingInfo",
+                "restaurants": [
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1330327",
+                      "name": "Hot & Spicy Restaurant",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/2/14/f0136a13-6c14-4595-b876-011bd9ea08d4_1330327.jpg",
+                      "locality": "Governorpet",
+                      "areaName": "Governorpet",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Andhra",
+                        "Biryani",
+                        "South Indian",
+                        "North Indian"
+                      ],
+                      "avgRating": 3.5,
+                      "parentId": "97094",
+                      "avgRatingString": "3.5",
+                      "totalRatingsString": "6",
+                      "sla": {
+                        "deliveryTime": 51,
+                        "lastMileTravel": 17.5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "50-60 mins",
+                        "lastMileTravelString": "17.5 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2026-07-29 22:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "20% OFF",
+                        "subHeader": "ABOVE ₹700",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/hot-and-spicy-restaurant-governorpet-rest1330327",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "255672",
+                      "name": "Gopalji Paan Wala",
+                      "cloudinaryImageId": "sbrbketexpj4ymjyvfgr",
+                      "locality": "Governorpet",
+                      "areaName": "Tarapet",
+                      "costForTwo": "₹50 for two",
+                      "cuisines": [
+                        "Paan"
+                      ],
+                      "avgRating": 3.9,
+                      "veg": true,
+                      "parentId": "89085",
+                      "avgRatingString": "3.9",
+                      "totalRatingsString": "41",
+                      "sla": {
+                        "deliveryTime": 47,
+                        "lastMileTravel": 16.4,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "45-50 mins",
+                        "lastMileTravelString": "16.4 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2026-07-29 22:15:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/gopalji-paan-wala-governorpet-tarapet-rest255672",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1328486",
+                      "name": "Sri Sai Durga Flower Bouquets And Decorations",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/2/20/742757fa-927e-43e1-a398-c482809f3223_1328486.JPG",
+                      "locality": "Governorpet",
+                      "areaName": "Governorpet",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Florist",
+                        "Healthy Food",
+                        "Salads"
+                      ],
+                      "veg": true,
+                      "parentId": "756188",
+                      "avgRatingString": "NEW",
+                      "sla": {
+                        "deliveryTime": 45,
+                        "lastMileTravel": 17.3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "17.3 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2026-07-29 22:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "10% OFF",
+                        "subHeader": "UPTO ₹100"
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/sri-sai-durga-flower-bouquets-and-decorations-governorpet-rest1328486",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1411032",
+                      "name": "Harshi Biryani",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/7/20/64e00dba-1bc4-4e17-aaf4-236c2b66df3b_1411032.jpg",
+                      "locality": "Mangalagiri",
+                      "areaName": "Mangalagiri",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Biryani",
+                        "Indian",
+                        "Mughlai"
+                      ],
+                      "parentId": "804054",
+                      "avgRatingString": "NEW",
+                      "sla": {
+                        "deliveryTime": 60,
+                        "lastMileTravel": 16.3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "60-70 mins",
+                        "lastMileTravelString": "16.3 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2026-07-29 22:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/harshi-biryani-mangalagiri-rest1411032",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1101832",
+                      "name": "Vaividya Eat Foods - White House",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/23/fd387907-8dc6-4d49-85d6-3cd5c28aa6a8_1101832.jpg",
+                      "locality": "Mangalagiri",
+                      "areaName": "Mangalagiri",
+                      "costForTwo": "₹300 for two",
+                      "cuisines": [
+                        "Ice Cream",
+                        "Juices",
+                        "Pizzas",
+                        "Waffle",
+                        "Burgers"
+                      ],
+                      "avgRating": 4.1,
+                      "parentId": "639997",
+                      "avgRatingString": "4.1",
+                      "totalRatingsString": "64",
+                      "sla": {
+                        "deliveryTime": 50,
+                        "lastMileTravel": 14.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "45-50 mins",
+                        "lastMileTravelString": "14.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2026-07-29 23:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/vaividya-eat-foods-white-house-mangalagiri-rest1101832",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1130743",
+                      "name": "Moon Star Biryani Hotel",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/26/1ebf997a-cf4f-4ab1-a929-305a4fa237af_1130743.JPG",
+                      "locality": "Governorpet",
+                      "areaName": "Governorpet",
+                      "costForTwo": "₹500 for two",
+                      "cuisines": [
+                        "Biryani"
+                      ],
+                      "avgRating": 4.2,
+                      "parentId": "651886",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "28",
+                      "sla": {
+                        "deliveryTime": 48,
+                        "lastMileTravel": 17.1,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "45-50 mins",
+                        "lastMileTravelString": "17.1 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2026-07-29 22:30:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/moon-star-biryani-hotel-governorpet-rest1130743",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1333654",
+                      "name": "Royal Caterers",
+                      "cloudinaryImageId": "rest_image/712dce0a-3b43-11ea-b791-06b99468594eMonday_20_January_2020__10_42id246312.jpg",
+                      "locality": "Governorpet",
+                      "areaName": "Governorpet",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Andhra",
+                        "South Indian",
+                        "Snacks",
+                        "Fast Food",
+                        "North Indian",
+                        "Biryani",
+                        "Chinese"
+                      ],
+                      "avgRating": 3.8,
+                      "parentId": "171911",
+                      "avgRatingString": "3.8",
+                      "totalRatingsString": "20",
+                      "sla": {
+                        "deliveryTime": 51,
+                        "lastMileTravel": 17.5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "50-60 mins",
+                        "lastMileTravelString": "17.5 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2026-07-29 22:30:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/royal-caterers-governorpet-rest1333654",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1005582",
+                      "name": "6Am Rasoi",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/10/b3489493-93b1-4f1d-9ab8-b872dcd16b1c_1005582.jpg",
+                      "locality": "Governorpet",
+                      "areaName": "Governorpet",
+                      "costForTwo": "₹199 for two",
+                      "cuisines": [
+                        "Biryani"
+                      ],
+                      "avgRating": 4,
+                      "parentId": "586076",
+                      "avgRatingString": "4.0",
+                      "totalRatingsString": "7",
+                      "sla": {
+                        "deliveryTime": 51,
+                        "lastMileTravel": 16,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "50-60 mins",
+                        "lastMileTravelString": "16.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2026-07-29 23:30:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/6am-rasoi-governorpet-rest1005582",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "293439",
+                      "name": "Formula",
+                      "cloudinaryImageId": "ova445mbl4yaokzves6e",
+                      "locality": "Atmakur Rural",
+                      "areaName": "Mangalagiri",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": [
+                        "Biryani",
+                        "Italian"
+                      ],
+                      "avgRating": 3.3,
+                      "veg": true,
+                      "parentId": "13165",
+                      "avgRatingString": "3.3",
+                      "totalRatingsString": "512",
+                      "sla": {
+                        "deliveryTime": 50,
+                        "lastMileTravel": 14.4,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "45-50 mins",
+                        "lastMileTravelString": "14.4 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2026-07-29 23:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/formula-atmakur-rural-mangalagiri-rest293439",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "184470",
+                      "name": "Khaja Bhai Biryani Point",
+                      "cloudinaryImageId": "iojxxk22phvmxb1i2etb",
+                      "locality": "Atmakur Rural",
+                      "areaName": "Mangalagiri",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": [
+                        "Biryani"
+                      ],
+                      "avgRating": 3.9,
+                      "parentId": "13591",
+                      "avgRatingString": "3.9",
+                      "totalRatingsString": "1.3K+",
+                      "sla": {
+                        "deliveryTime": 48,
+                        "lastMileTravel": 14.6,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "45-50 mins",
+                        "lastMileTravelString": "14.6 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2026-07-29 23:59:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/khaja-bhai-biryani-point-atmakur-rural-mangalagiri-rest184470",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1294189",
+                      "name": "Geethika's Kitchen",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/12/23/e0be437d-9524-4f58-b478-51bf4a15c0e6_1294189.jpg",
+                      "locality": "Governorpet",
+                      "areaName": "Governorpet",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Chinese",
+                        "Biryani",
+                        "Fast Food"
+                      ],
+                      "parentId": "737044",
+                      "avgRatingString": "--",
+                      "sla": {
+                        "deliveryTime": 54,
+                        "lastMileTravel": 17.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "50-60 mins",
+                        "lastMileTravelString": "17.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2026-07-29 23:00:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/geethikas-kitchen-governorpet-rest1294189",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "617664",
+                      "name": "Naseema Cakepoint",
+                      "cloudinaryImageId": "zd7bpw1g4ptns50f4qcb",
+                      "locality": "Atmakur Rural",
+                      "areaName": "Governorpet",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Bakery"
+                      ],
+                      "avgRating": 4.5,
+                      "parentId": "368243",
+                      "avgRatingString": "4.5",
+                      "totalRatingsString": "51",
+                      "sla": {
+                        "deliveryTime": 47,
+                        "lastMileTravel": 12.6,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "45-50 mins",
+                        "lastMileTravelString": "12.6 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2026-07-29 23:30:00",
+                        "opened": true
+                      },
+                      "badges": {},
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/naseema-cakepoint-atmakur-rural-governorpet-rest617664",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1198946",
+                      "name": "New Star Dum Biryani",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/9/9/9b469fcf-886b-4089-8ae2-fa4f36bff8a1_1198946.jpg",
+                      "locality": "Governorpet",
+                      "areaName": "Governorpet",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Biryani"
+                      ],
+                      "avgRating": 4.4,
+                      "parentId": "686225",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "6",
+                      "sla": {
+                        "deliveryTime": 48,
+                        "lastMileTravel": 17.9,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "45-55 mins",
+                        "lastMileTravelString": "17.9 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 10:30 pm, today"
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/new-star-dum-biryani-governorpet-rest1198946",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1204669",
+                      "name": "Royal Vindu Bhojanam",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/9/15/65d1ce40-9f71-4dcd-a3dc-6a66a2febb57_1204669.jpg",
+                      "locality": "Governorpet",
+                      "areaName": "Governorpet",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Chinese",
+                        "Andhra",
+                        "South Indian",
+                        "Thalis",
+                        "Beverages",
+                        "Pizzas",
+                        "Burgers"
+                      ],
+                      "parentId": "689618",
+                      "avgRatingString": "--",
+                      "sla": {
+                        "deliveryTime": 52,
+                        "lastMileTravel": 17.9,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "50-60 mins",
+                        "lastMileTravelString": "17.9 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 6 am, tomorrow"
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/royal-vindu-bhojanam-governorpet-rest1204669",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                    "info": {
+                      "id": "1333271",
+                      "name": "Sai Srinivasa Restaurant And Caterers",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/2/18/9f49107d-7a8d-4d38-af29-0712790e105e_1333271.jpg",
+                      "locality": "Governorpet",
+                      "areaName": "Governorpet",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Chinese",
+                        "Biryani",
+                        "South Indian",
+                        "Snacks",
+                        "Burgers",
+                        "Continental"
+                      ],
+                      "avgRating": 4.1,
+                      "parentId": "758669",
+                      "avgRatingString": "4.1",
+                      "totalRatingsString": "5",
+                      "sla": {
+                        "deliveryTime": 51,
+                        "lastMileTravel": 17.5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "50-60 mins",
+                        "lastMileTravelString": "17.5 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextOpenTimeMessage": "Opens next at 6 am, tomorrow"
+                      },
+                      "badges": {},
+                      "aggregatedDiscountInfoV2": {},
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {},
+                          "textBased": {},
+                          "textExtendedBadges": {}
+                        }
+                      },
+                      "orderabilityCommunication": {
+                        "title": {},
+                        "subTitle": {},
+                        "message": {},
+                        "customIcon": {}
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {},
+                          "video": {}
+                        }
+                      },
+                      "reviewsSummary": {},
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "isNewlyOnboarded": true,
+                      "restaurantOfferPresentationInfo": {},
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ade1900e-beae-4390-9de9-118e417f457a"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/vijayawada/sai-srinivasa-restaurant-and-caterers-governorpet-rest1333271",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  }
+                ],
+                "theme": "SeoRestaurantListingGridWidget"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "nextFetch": 3
+  },
+  "tid": "eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODUzNDE3MjAsImlhdCI6MTc4NTMzODEyMCwic2Vzc2lvbl9kYXRhIjoiRUQ5OEN1blZnS05mQU5MVVN3OWorK3g3bDFQNGlhRjJ1ak10bTFFMkUwcmRxZW9BSnpJUEdwVDRyb2JqWTlCTEdMYXFvclFTbHp4ZzlBYmlMZ2lhMXlFaVI4L2hPcHNjR284c2VBc2tRQ2xCTzhpVThzekUyNnF1YU1PMnJid3ZXdnlvODFyWmx2dENPWUUyOWdvc3VoNkIrY0tFcElaZ3RuME9vQkEvSUxqRTdja2hVY3dJWFJEeGEyNkdxQzlaeW4rTlE0ZWlzcWJsM29VSXNQRS90UT09Iiwic2lkIjoic3I4Mjk1MTYzNjQtZGViMy00NGE4LWE1MWMtNjYxZjg2ODk3Iiwic3ViIjoiMDU5NTJhMTAtZDc5Yi00YjQwLThlNjYtMGZlNDA3ZDZmMThhIiwidXNlcl9pZCI6IjAifQ.v8AhouZGkjYKjvU4UVDYSvhrmbgCwuRAW8-Ko_gSX8g",
+  "sid": "sr829516364-deb3-44a8-a51c-661f86897",
+  "deviceId": "4655b1a3-bcb7-2ba5-d874-d91dda20cb04",
+  "csrfToken": null
+}

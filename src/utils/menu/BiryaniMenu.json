@@ -1,0 +1,2339 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+            "text": "Paradise Biryani",
+            "headerStyling": {
+              "textColor": "text_Highest_Emphasis",
+              "textVariant": "header_H3_Black"
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+            "tabs": [
+              {
+                "id": "Order Online",
+                "title": "Order Online"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "70516",
+              "name": "Paradise Biryani",
+              "city": "Vijayawada",
+              "slugs": {
+                "restaurant": "paradise-biryani-near-benz-circle-benz-circle-and-auto-nagar",
+                "city": "vijayawada"
+              },
+              "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+              "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/3/26/a1434809-19e8-4ca8-b40c-0fdca82550b7_70516.JPG",
+              "locality": "Labbipet",
+              "areaName": "Labbipet",
+              "costForTwo": "40000",
+              "costForTwoMessage": "₹400 for two",
+              "cuisines": [
+                "Biryani",
+                "Kebabs"
+              ],
+              "avgRating": 4.3,
+              "feeDetails": {
+                "restaurantId": "70516",
+                "fees": [
+                  {}
+                ]
+              },
+              "parentId": "700",
+              "avgRatingString": "4.3",
+              "totalRatingsString": "36K+ ratings",
+              "sla": {
+                "restaurantId": "70516",
+                "deliveryTime": 31,
+                "minDeliveryTime": 30,
+                "maxDeliveryTime": 40,
+                "lastMileTravel": 33.3,
+                "serviceability": "NON_SERVICEABLE",
+                "stressFactor": 1,
+                "rainMode": "RAIN_MODE_LIGHT",
+                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                "zoneId": 539,
+                "slaString": "30-40 MINS",
+                "lastMileTravelString": "33.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2026-07-29 23:59:00",
+                "visibility": true,
+                "opened": true,
+                "restaurantClosedMeta": {}
+              },
+              "aggregatedDiscountInfo": {
+                "header": "Get items under 199",
+                "shortDescriptionList": [
+                  {
+                    "meta": "Get items under 199",
+                    "discountType": "FinalPrice",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "10% off",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "Get items under 199",
+                    "discountType": "FinalPrice",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "10% off",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "visible": true
+              },
+              "badges": {},
+              "slugString": "paradise-biryani-near-benz-circle-benz-circle-and-auto-nagar",
+              "isOpen": true,
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "Sy.No.120/3, Ward No.11, Sai Nagar, Patamata, Vijayawada (Urban), District - Krishna, Andhra Pradesh -520010. Near Benz Circle"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "Biryani,Kebabs"
+                }
+              ],
+              "logo": "Autosuggest/Brands/700_zIDuTrjiT.jpg",
+              "totalRatings": 36000,
+              "aggregatedDiscountInfoV2": {
+                "header": "Get items under 199",
+                "shortDescriptionList": [
+                  {
+                    "meta": "Get items under 199",
+                    "discountType": "FinalPrice",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "10% off",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "Get items under 199",
+                    "discountType": "FinalPrice",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "10% off",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ]
+              },
+              "type": "F",
+              "similarRestaurantAvailable": "false",
+              "nudgeBanners": [
+                {
+                  "priority": 2,
+                  "discountInfo": {
+                    "discountType": "FinalPrice",
+                    "value": 329
+                  },
+                  "unlockedMessage": "Deal of the Day unlocked!",
+                  "minItemCount": 1,
+                  "maxItemCount": 1,
+                  "type": "SILD",
+                  "nudgeTagInfo": {
+                    "title": "Deal of the Day",
+                    "fontName": "FONT_NAME_CONDENSED_BOLD"
+                  },
+                  "logoCtx": {}
+                }
+              ],
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/70516"
+              },
+              "tradeCampaignHeadersV2": [
+                {
+                  "discountType": "FinalPrice"
+                },
+                {
+                  "discountType": "FinalPrice"
+                },
+                {
+                  "discountType": "Percentage"
+                },
+                {
+                  "discountType": "Flat"
+                },
+                {
+                  "discountType": "Flat"
+                },
+                {
+                  "discountType": "Flat"
+                },
+                {
+                  "discountType": "Percentage"
+                },
+                {
+                  "discountType": "Percentage"
+                },
+                {
+                  "discountType": "Percentage"
+                },
+                {
+                  "discountType": "Flat"
+                },
+                {
+                  "discountType": "Percentage"
+                },
+                {
+                  "discountType": "Percentage"
+                },
+                {
+                  "discountType": "Flat"
+                },
+                {
+                  "discountType": "Percentage"
+                },
+                {
+                  "discountType": "Flat"
+                }
+              ],
+              "generalPurposeInfoListV2": [
+                {
+                  "cta": {
+                    "info": {
+                      "recordings": {}
+                    },
+                    "linkCta": {}
+                  }
+                }
+              ],
+              "ratingSlab": "RATING_SLAB_5",
+              "availabilityServiceabilityMessage": "Does not deliver to your location",
+              "orderabilityCommunication": {
+                "title": {
+                  "text": "Wish you were"
+                },
+                "subTitle": {
+                  "text": "CLOSER!"
+                },
+                "message": {
+                  "text": "This location is outside the outlet's delivery area",
+                  "textColour": "negative"
+                },
+                "customIcon": {
+                  "bgGradientColorStart": "#F64C41",
+                  "bgGradientColorEnd": "#E53554"
+                },
+                "commsStyling": {}
+              },
+              "hasBestsellerItems": true,
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {},
+                "presentation": {}
+              },
+              "latLong": "16.4989911,80.6549312",
+              "backgroundImageOverlayInfo": {},
+              "featuredSectionInfo": {},
+              "timingsInfo": {
+                "status": "Open now",
+                "message": "Closes 12:00 am",
+                "outletTiming": {
+                  "infoList": [
+                    {
+                      "title": "Monday",
+                      "subtitle": "Midnight - 1.00AM, 11.00AM - Midnight",
+                      "titleColor": "text_high_emphasis",
+                      "subtitleColor": "text_high_emphasis"
+                    },
+                    {
+                      "title": "Tuesday",
+                      "subtitle": "Midnight - 1.00AM, 11.00AM - Midnight",
+                      "titleColor": "text_high_emphasis",
+                      "subtitleColor": "text_high_emphasis"
+                    },
+                    {
+                      "title": "Wednesday",
+                      "subtitle": "Midnight - 1.00AM, 11.00AM - Midnight",
+                      "titleColor": "primary",
+                      "subtitleColor": "primary"
+                    },
+                    {
+                      "title": "Thursday",
+                      "subtitle": "Midnight - 1.00AM, 11.00AM - Midnight",
+                      "titleColor": "text_high_emphasis",
+                      "subtitleColor": "text_high_emphasis"
+                    },
+                    {
+                      "title": "Friday",
+                      "subtitle": "Midnight - 1.00AM, 11.00AM - Midnight",
+                      "titleColor": "text_high_emphasis",
+                      "subtitleColor": "text_high_emphasis"
+                    },
+                    {
+                      "title": "Saturday",
+                      "subtitle": "Midnight - 1.00AM, 11.00AM - Midnight",
+                      "titleColor": "text_high_emphasis",
+                      "subtitleColor": "text_high_emphasis"
+                    },
+                    {
+                      "title": "Sunday",
+                      "subtitle": "Midnight - 1.00AM, 11.00AM - Midnight",
+                      "titleColor": "text_high_emphasis",
+                      "subtitleColor": "text_high_emphasis"
+                    }
+                  ],
+                  "title": "Outlet timings"
+                },
+                "styleInfo": {
+                  "titleColor": "positive",
+                  "subtitleColor": "text_color_low_emphasis"
+                }
+              },
+              "phone": "9110307397",
+              "postalCode": "520010"
+            },
+            "analytics": {}
+          },
+          "relevance": {
+            "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_AND_SHOW_MENU_OFFER_NUDGE",
+            "sectionId": "MENU_ITEM_CART_UPDATE_POP_CROUTON"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": {
+              "rows": 1,
+              "columns": 5,
+              "horizontalScrollEnabled": true,
+              "itemSpacing": 12,
+              "lineSpacing": 10,
+              "widgetPadding": {},
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 10,
+                  "right": 10,
+                  "bottom": 16
+                }
+              }
+            },
+            "id": "offerCollectionWidget_UX4",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                "offers": [
+                  {
+                    "info": {
+                      "header": "ITEMS AT ₹199",
+                      "offerTag": "DEAL OF DAY",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "4eaa6d24-a38c-4fb2-9c85-fdc7de014e83"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "description": "ON SELECT ITEMS |",
+                      "offerType": "offers",
+                      "restId": "70516",
+                      "offerLogo": "offers/deal-of-day",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT 10% OFF",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "82d8d181-a3e9-486e-b898-28a66f1ce58b"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "NO CODE REQUIRED",
+                      "description": "ON SELECT ITEMS",
+                      "offerType": "offers",
+                      "restId": "70516",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "NO CODE REQUIRED"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹100 OFF",
+                      "offerTag": "FLAT DEAL",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "10f3e461-08e8-47fd-814b-bbf751fa180e"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE FLAT100",
+                      "description": "ABOVE ₹449",
+                      "offerType": "offers",
+                      "restId": "70516",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE FLAT100"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹150 OFF",
+                      "offerTag": "FLAT DEAL",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "b3d59cd1-0987-478f-9ca9-d840dde7d4b0"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE FLAT150",
+                      "description": "ABOVE ₹599",
+                      "offerType": "offers",
+                      "restId": "70516",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE FLAT150"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹300 OFF",
+                      "offerTag": "DEFAULT",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "4757aa72-ac63-4261-b714-2ad246650a30"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE FLAT300",
+                      "description": "ABOVE ₹1099",
+                      "offerType": "offers",
+                      "restId": "70516",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE FLAT300"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  }
+                ],
+                "habitMilestoneInfo": {
+                  "callout": {}
+                },
+                "loyaltyDiscoverPresentationInfo": {
+                  "logoCtx": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "badges": {},
+                      "vegOnlyDetails": {
+                        "imageId": "AutoVegOnly_qkjowj",
+                        "title": "Showing only vegetarian options.",
+                        "description": "Tap on the VEG ONLY button to turn off the setting"
+                      },
+                      "offersFilter": {
+                        "attributes": {
+                          "displayText": "10% OFF"
+                        }
+                      },
+                      "topRatedFilter": {
+                        "attributes": {
+                          "displayText": "Ratings 4.0+"
+                        }
+                      },
+                      "kidsCategoryFilter": {
+                        "attributes": {
+                          "displayText": "Kids Favourites",
+                          "tooltip": {
+                            "enabled": true,
+                            "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                          }
+                        }
+                      },
+                      "vegFilter": {
+                        "attributes": {
+                          "displayText": "VEG"
+                        }
+                      },
+                      "nonvegFilter": {
+                        "attributes": {
+                          "displayText": "NONVEG"
+                        }
+                      }
+                    },
+                    "relevance": {
+                      "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                      "sectionId": "MENU_FILTER_TOGGLE"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Hyderabadi Dum Biryani's",
+                      "categories": [
+                        {
+                          "title": "Dum Biryani (Serves 2)",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "24417466",
+                                  "name": "Nizami Chicken Dum Biryani (Serves upto 2)",
+                                  "category": "Hyderabadi Dum Biryani's",
+                                  "description": "Serves 1 | \"850gm | Freshly cooked Chicken Dum Biryani with 2 juicy chicken pieces, served with salan and raita.  (134.17g protein · 2603 kcal)\"",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/1/b44549f2-33a6-40cc-bd45-a0257de40456_64fa3a34-b9c8-4037-b7fd-8de28d263c62.jpg",
+                                  "inStock": 1,
+                                  "price": 43500,
+                                  "finalPrice": 32900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG",
+                                    "portionSize": "Serves 1"
+                                  },
+                                  "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                  },
+                                  "type": "ITEM",
+                                  "offerTags": [
+                                    {
+                                      "matchText": "SILD"
+                                    }
+                                  ],
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "itemNudgeType": "FinalPrice",
+                                  "isBestseller": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.3",
+                                      "ratingCount": "5493 ratings",
+                                      "ratingCountV2": "5.5K+"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#00FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "offerIds": [
+                                    "4af55784-03c9-4868-b5bd-6289b39718a4"
+                                  ],
+                                  "parentId": "66113267",
+                                  "menuFilterIds": [
+                                    "bestseller",
+                                    "NONVEG",
+                                    "offer",
+                                    "toprated"
+                                  ],
+                                  "priceComparisonComms": {},
+                                  "instrumentationMetaMap": {
+                                    "swiggy_listing_price": "43500",
+                                    "swiggy_final_price": "0"
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "33876801",
+                                  "name": "Special Veg Dum Biryani (Serves 1-2)",
+                                  "category": "Hyderabadi Dum Biryani's",
+                                  "description": "700gm | Freshly cooked Veg Dum Biryani with fresh vegetables, served with salan and raita.  (42g protein · 1412 kcal)",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/1/0291df15-0374-440d-a0ac-66233e8dd6d9_038975ce-60b4-40a3-a908-48acbe669af7.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 38500,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "isBestseller": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.3",
+                                      "ratingCount": "1579 ratings",
+                                      "ratingCountV2": "1.6K+"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#00FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "parentId": "59103598",
+                                  "menuFilterIds": [
+                                    "bestseller",
+                                    "VEG",
+                                    "toprated"
+                                  ],
+                                  "priceComparisonComms": {},
+                                  "instrumentationMetaMap": {
+                                    "swiggy_listing_price": "38500",
+                                    "swiggy_final_price": "0"
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "158014262",
+                                  "name": "Nizami Fry Piece Chicken Biryani",
+                                  "category": "Hyderabadi Dum Biryani's",
+                                  "description": "Serves 1 | Chicken is tossed in the Secret flavours of Andhra and served in middle layer along with Dum Rice",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/1/66616311-807f-4750-925b-b2928552d555_e2f5c7f8-a0c2-4c44-97de-d755efebfc68.jpg_compressed",
+                                  "inStock": 1,
+                                  "price": 44900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG",
+                                    "portionSize": "Serves 1"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.0",
+                                      "ratingCount": "65 ratings",
+                                      "ratingCountV2": "65"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#00FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "parentId": "101533355",
+                                  "menuFilterIds": [
+                                    "NONVEG",
+                                    "toprated"
+                                  ],
+                                  "priceComparisonComms": {},
+                                  "instrumentationMetaMap": {
+                                    "swiggy_listing_price": "44900",
+                                    "swiggy_final_price": "0"
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "155645026",
+                                  "name": "Paneer Biryani",
+                                  "category": "Hyderabadi Dum Biryani's",
+                                  "description": "Serves 1 | 1kg of Freshly cooked Paneer Biryani made with succulent pieces of paneer, marinated in an exotic blend of handpicked spices, layered with the finest long-grain Basmati Rice. Served with Mirchi ka Salan and Raita, this biryani is prepared every hour so that it is Always Dum Fresh!",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/1/b5920e60-65db-4ed6-9abd-568d81637f7e_ba0b94d6-3073-447b-89b9-1f6cb3bec3dd.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 36500,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "Serves 1"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.6",
+                                      "ratingCount": "243 ratings",
+                                      "ratingCountV2": "243"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#00FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "parentId": "31251016",
+                                  "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                  ],
+                                  "priceComparisonComms": {},
+                                  "instrumentationMetaMap": {
+                                    "swiggy_listing_price": "36500",
+                                    "swiggy_final_price": "0"
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {},
+                          "categoryId": "50290004"
+                        },
+                        {
+                          "title": "Dum Biryani (Serves 1)",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "40503450",
+                                  "name": "Royal Chicken Biryani (Serves 1)",
+                                  "category": "Hyderabadi Dum Biryani's",
+                                  "description": "515g | Freshly cooked Chicken Dum Biryani with 1 juicy chicken piece served with salan and raita. Protein – 62.06g / 1288 Kcal",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/1/4a1f62a3-930f-4af7-8dda-2b282c22e3f1_0442ee12-56ee-4c1e-a387-03f3ec7b061a.jpg_compressed",
+                                  "inStock": 1,
+                                  "price": 28500,
+                                  "finalPrice": 19900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                  },
+                                  "type": "ITEM",
+                                  "offerTags": [
+                                    {
+                                      "matchText": "SILD"
+                                    }
+                                  ],
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "itemNudgeType": "FinalPrice",
+                                  "isBestseller": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.3",
+                                      "ratingCount": "5247 ratings",
+                                      "ratingCountV2": "5.2K+"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#00FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "offerIds": [
+                                    "4eaa6d24-a38c-4fb2-9c85-fdc7de014e83"
+                                  ],
+                                  "parentId": "31251106",
+                                  "menuFilterIds": [
+                                    "bestseller",
+                                    "NONVEG",
+                                    "offer",
+                                    "toprated"
+                                  ],
+                                  "priceComparisonComms": {},
+                                  "instrumentationMetaMap": {
+                                    "swiggy_final_price": "0",
+                                    "swiggy_listing_price": "28500"
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "192310255",
+                                  "name": "Royal Veg Dum Biryani (Serves 1)",
+                                  "category": "Hyderabadi Dum Biryani's",
+                                  "description": "Serves 1 | 500g | Freshly cooked Veg Dum Biryani with fresh vegetables, served with salan and raita.",
+                                  "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/20/783593a2-3062-45f2-9a30-a146600aded9_00cd314f-94a0-4c2d-aac6-5774c0930f1d.jpg_compressed",
+                                  "inStock": 1,
+                                  "isVeg": 1,
+                                  "price": 27900,
+                                  "variants": {},
+                                  "variantsV2": {},
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG",
+                                    "portionSize": "Serves 1"
+                                  },
+                                  "ribbon": {},
+                                  "type": "ITEM",
+                                  "itemBadge": {},
+                                  "badgesV2": {},
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.3",
+                                      "ratingCount": "72 ratings",
+                                      "ratingCountV2": "72"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#00FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  },
+                                  "parentId": "117151103",
+                                  "menuFilterIds": [
+                                    "VEG",
+                                    "toprated"
+                                  ],
+                                  "priceComparisonComms": {},
+                                  "instrumentationMetaMap": {
+                                    "swiggy_listing_price": "27900",
+                                    "swiggy_final_price": "0"
+                                  }
+                                },
+                                "analytics": {},
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {},
+                          "categoryId": "50290005"
+                        }
+                      ],
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2025/12/1/4a1f62a3-930f-4af7-8dda-2b282c22e3f1_0442ee12-56ee-4c1e-a387-03f3ec7b061a.jpg_compressed",
+                      "categoryId": "23897026"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Beverages",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136435199",
+                              "name": "Coke Pet 750 ML",
+                              "category": "Beverages",
+                              "description": "Serves 1 | Pop open a can of happiness with Coke 750ml! The perfect pick-me-up, anytime, anywhere.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/10/b187e147-a39b-48f1-920a-408b9c409346_df470bb1-ea14-4041-a24b-1559abc6a04b.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 3810,
+                              "finalPrice": 3400,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "10% OFF",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3",
+                                  "matchText": "SILD"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "itemNudgeType": "CouponlessSild",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "139 ratings",
+                                  "ratingCountV2": "139"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#00FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "offerIds": [
+                                "82d8d181-a3e9-486e-b898-28a66f1ce58b"
+                              ],
+                              "parentId": "31250554",
+                              "menuFilterIds": [
+                                "VEG",
+                                "offer",
+                                "toprated"
+                              ],
+                              "priceComparisonComms": {},
+                              "instrumentationMetaMap": {
+                                "swiggy_listing_price": "3810",
+                                "swiggy_final_price": "0"
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136435201",
+                              "name": "Sprite Pet 750 ML",
+                              "category": "Beverages",
+                              "description": "Serves 1 | Get refreshed with Sprite Pet 750 ML - the perfect thirst quencher for any occasion!",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/10/593bb657-01e4-4adc-9e01-0554e5516634_e1cdc04b-ddf5-4856-833f-c8293acbad24.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 3810,
+                              "finalPrice": 3400,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "10% OFF",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3",
+                                  "matchText": "SILD"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "itemNudgeType": "CouponlessSild",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "105 ratings",
+                                  "ratingCountV2": "105"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#00FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "offerIds": [
+                                "82d8d181-a3e9-486e-b898-28a66f1ce58b"
+                              ],
+                              "parentId": "31251272",
+                              "menuFilterIds": [
+                                "VEG",
+                                "offer",
+                                "toprated"
+                              ],
+                              "priceComparisonComms": {},
+                              "instrumentationMetaMap": {
+                                "swiggy_listing_price": "3810",
+                                "swiggy_final_price": "0"
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "136435200",
+                              "name": "Thums Up Pet 750 ML",
+                              "category": "Beverages",
+                              "description": "Serves 1 | Get your Thums Up fix with our 750ml PET bottle - the perfect thirst-quencher! Bold taste, pure refreshment.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/10/d728f6c9-22ca-48b5-b2bc-197bab8d2748_626b97a8-787b-4f26-817f-d7099aa19c59.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 3810,
+                              "finalPrice": 3400,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "offerTags": [
+                                {
+                                  "title": "10% OFF",
+                                  "textColor": "#DB6742",
+                                  "backgroundColor": "#FAE8E3",
+                                  "matchText": "SILD"
+                                }
+                              ],
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "itemNudgeType": "CouponlessSild",
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "573 ratings",
+                                  "ratingCountV2": "573"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#00FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "offerIds": [
+                                "82d8d181-a3e9-486e-b898-28a66f1ce58b"
+                              ],
+                              "parentId": "31251336",
+                              "menuFilterIds": [
+                                "VEG",
+                                "offer",
+                                "toprated"
+                              ],
+                              "priceComparisonComms": {},
+                              "instrumentationMetaMap": {
+                                "swiggy_listing_price": "3810",
+                                "swiggy_final_price": "0"
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {},
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2024/4/10/b187e147-a39b-48f1-920a-408b9c409346_df470bb1-ea14-4041-a24b-1559abc6a04b.jpg",
+                      "categoryId": "76251295"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Dessert's",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "98328660",
+                              "name": "Gulab Jamun (2 pcs)",
+                              "category": "Dessert's",
+                              "description": "Serves 1 | Warm gulab jamuns soaked in sugar syrup. The soft, sweet way to finish. Carbs 58.75g, Fats 15.62g, Proteins 6.87g, 400Kcal.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/1/84edbf9d-c30e-48aa-954b-104b387f2385_6b7a254c-5d04-4bf1-96a2-fcb5dc26c5d5.png_compressed",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "304 ratings",
+                                  "ratingCountV2": "304"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#00FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "parentId": "54578851",
+                              "menuFilterIds": [
+                                "bestseller",
+                                "VEG",
+                                "toprated"
+                              ],
+                              "priceComparisonComms": {},
+                              "instrumentationMetaMap": {
+                                "swiggy_listing_price": "9500",
+                                "swiggy_final_price": "0"
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "98328662",
+                              "name": "Khubani Ka Meetha",
+                              "category": "Dessert's",
+                              "description": "Serves 1 | Soft apricots in saffron and rose water, sweet and delicate. Carbs 39.83g, Fats 0.12g, Proteins 0.4g, 157Kcal.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/1/66fd68eb-3c76-4e0e-912f-cc788f509dbd_380c81ab-53ad-472a-8300-ba7afdb0bdd7.png_compressed",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "74 ratings",
+                                  "ratingCountV2": "74"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#00FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "imageBadges": [
+                                {
+                                  "imageId": "Health%20Hub/Sub%20categories/Item%20badges/Low%20cal%201_1.png"
+                                }
+                              ],
+                              "parentId": "31250772",
+                              "menuFilterIds": [
+                                "EATRIGHT",
+                                "VEG",
+                                "toprated"
+                              ],
+                              "priceComparisonComms": {},
+                              "instrumentationMetaMap": {
+                                "swiggy_listing_price": "16500",
+                                "swiggy_final_price": "0"
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {},
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2025/12/1/84edbf9d-c30e-48aa-954b-104b387f2385_6b7a254c-5d04-4bf1-96a2-fcb5dc26c5d5.png_compressed",
+                      "categoryId": "25707649"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Accompaniments",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "42475215",
+                              "name": "Mirchi Ka Salan",
+                              "category": "Accompaniments",
+                              "description": "Serves 1 | Mirchi Ka Salan contains 17g Carbs, 19g Fat, 6g Protein and 250kcal and Nuts, Sesame seeds, Milk & Milk Products.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/7/c04b97b9-f940-4705-90d0-288100df64d9_c3a6d55e-3f77-4655-a3da-1c303d7f1f1a",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 1100,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "668 ratings",
+                                  "ratingCountV2": "668"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#00FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "parentId": "31250812",
+                              "menuFilterIds": [
+                                "VEG",
+                                "toprated"
+                              ],
+                              "priceComparisonComms": {},
+                              "instrumentationMetaMap": {
+                                "swiggy_listing_price": "1100",
+                                "swiggy_final_price": "0"
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {},
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2024/3/7/c04b97b9-f940-4705-90d0-288100df64d9_c3a6d55e-3f77-4655-a3da-1c303d7f1f1a",
+                      "categoryId": "33116085"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Cutlery",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "129355945",
+                              "name": "Cutlery",
+                              "category": "Cutlery",
+                              "description": "Have your meal at convenience with a plate and spoons",
+                              "imageId": "d103cf03259bcc6ec079d5f6fa0002f6",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 1100,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "122 ratings",
+                                  "ratingCountV2": "122"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#00FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              },
+                              "parentId": "74847589",
+                              "menuFilterIds": [
+                                "VEG",
+                                "toprated"
+                              ],
+                              "priceComparisonComms": {},
+                              "instrumentationMetaMap": {
+                                "swiggy_listing_price": "1100",
+                                "swiggy_final_price": "0"
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {},
+                      "image": "d103cf03259bcc6ec079d5f6fa0002f6",
+                      "categoryId": "43201290"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.SeoContent",
+                      "title": "About Paradise Biryani",
+                      "description": "<section><h3>Best-Selling Dishes at Paradise Biryani</h3><p>Paradise Biryani is a popular food destination in Labbipet, Vijayawada, known for serving delicious indian food. Customers can order from Paradise Biryani for fresh preparation, satisfying portions, and flavorful dishes.</p><h3>Khubani Ka Meetha</h3><p>Khubani Ka Meetha is one of the popular dishes at Paradise Biryani. It is prepared with quality ingredients and offers a satisfying taste for customers ordering from Labbipet.</p><h3>Soya Keema Rice Bowl</h3><p>Soya Keema Rice Bowl is another preferred item from the menu. It is a good choice for customers looking to enjoy tasty indian food in Vijayawada.</p><h3>Why Customers Love Ordering from Paradise Biryani</h3><p>Customers prefer Paradise Biryani for its tasty food, reliable service, quick preparation, and menu choices. The restaurant serves indian dishes along with options such as soft drinks, making it suitable for different food preferences.</p><h3>Enjoy Food from Paradise Biryani at Home with Swiggy</h3><p>Swiggy makes it easy to order food from Paradise Biryani in Vijayawada. Customers can browse the menu, choose their favorite dishes, place an order online, make secure payments, track the order live, and enjoy doorstep delivery from Paradise Biryani in Labbipet.</p><h3>Discover More Restaurants in Labbipet</h3><p>Labbipet has many restaurants offering different cuisines, snacks, meals, desserts, and beverages. Customers exploring food delivery in Vijayawada can discover more restaurants and order their favorite food online through Swiggy.</p></section>"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.FAQSection",
+                      "title": "FAQs about Paradise Biryani",
+                      "qnas": [
+                        {
+                          "question": "Does Paradise Biryani deliver food in Vijayawada on Swiggy?",
+                          "answer": "Yes, Paradise Biryani delivers food in Vijayawada through Swiggy. Customers can order their favorite dishes online and enjoy doorstep delivery."
+                        },
+                        {
+                          "question": "What is Paradise Biryani known for?",
+                          "answer": "Paradise Biryani is known for its popular indian dishes."
+                        },
+                        {
+                          "question": "What are the most popular dishes at Paradise Biryani?",
+                          "answer": "Some of the popular dishes at Paradise Biryani include Khubani Ka Meetha, Soya Keema Rice Bowl, Special Veg Dum Biryani (Serves 1-2), and Royal Mutton Dum Biryani (Serves 1)."
+                        },
+                        {
+                          "question": "Does Paradise Biryani offer vegetarian options?",
+                          "answer": "Yes, Paradise Biryani offers both options, including 34 vegetarian items."
+                        },
+                        {
+                          "question": "How can I order from Paradise Biryani online?",
+                          "answer": "Customers can open the Swiggy app or website, search for Paradise Biryani in Vijayawada, browse the menu, add dishes to the cart, and place the order online."
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "type": "FSSAI",
+                      "imageId": "fssai_final_edss9i",
+                      "text": [
+                        "License No. 10117006001159"
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Paradise Biryani",
+                      "area": "Labbipet",
+                      "completeAddress": "Sy.No.120/3, Ward No.11, Sai Nagar, Patamata, Vijayawada (Urban), District - Krishna, Andhra Pradesh -520010. Near Benz Circle"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.PopularSearches",
+                      "title": "Popular Searches",
+                      "interlinkingSeoInfo": [
+                        {
+                          "title": "Popular Restaurant In Vijayawada",
+                          "links": [
+                            {
+                              "label": "Hoskote 4 Am Biryani",
+                              "url": "https://www.swiggy.com/city/vijayawada/hoskote-4-am-biryani-arundalpet-rest731303"
+                            },
+                            {
+                              "label": "Bengaluru Bhavan",
+                              "url": "https://www.swiggy.com/city/vijayawada/bengaluru-bhavan-labbipet-rest695744"
+                            },
+                            {
+                              "label": "Bismillah Biryani & Fast food",
+                              "url": "https://www.swiggy.com/city/vijayawada/bismillah-biryani-and-fast-food-krishna-rest79909"
+                            },
+                            {
+                              "label": "Burger King",
+                              "url": "https://www.swiggy.com/city/vijayawada/burger-king-postal-colony-rest617747"
+                            },
+                            {
+                              "label": "Paradise Biryani",
+                              "url": "https://www.swiggy.com/city/vijayawada/paradise-biryani-labbipet-rest70516"
+                            },
+                            {
+                              "label": "Southern Spice Nasta",
+                              "url": "https://www.swiggy.com/city/vijayawada/southern-spice-nasta-teachers-colony-rest333112"
+                            },
+                            {
+                              "label": "Shahdab Hyderabad Biryani",
+                              "url": "https://www.swiggy.com/city/vijayawada/shahdab-hyderabad-biryani-vijayawada-rest436629"
+                            },
+                            {
+                              "label": "Ismail Biryani",
+                              "url": "https://www.swiggy.com/city/vijayawada/ismail-biryani-auto-nagar-rest816385"
+                            },
+                            {
+                              "label": "Silver Dum Biryani - Original",
+                              "url": "https://www.swiggy.com/city/vijayawada/silver-dum-biryani-original-patamata-rest68615"
+                            },
+                            {
+                              "label": "SSS Idly Center",
+                              "url": "https://www.swiggy.com/city/vijayawada/sss-idly-center-christurajupuram-rest70486"
+                            },
+                            {
+                              "label": "McDonald's",
+                              "url": "https://www.swiggy.com/city/vijayawada/mcdonalds-auto-nagar-rest71320"
+                            },
+                            {
+                              "label": "Vindhu Maharaj",
+                              "url": "https://www.swiggy.com/city/vijayawada/vindhu-maharaj-governorpet-rest1165287"
+                            },
+                            {
+                              "label": "Sattibabu Kodi Pulao",
+                              "url": "https://www.swiggy.com/city/vijayawada/sattibabu-kodi-pulao-gayatri-nagar-rest1122260"
+                            },
+                            {
+                              "label": "Dolphins Family Restaurant",
+                              "url": "https://www.swiggy.com/city/vijayawada/dolphins-family-restaurant-labbipet-rest74011"
+                            },
+                            {
+                              "label": "Banglores 4Am Donne Biryani",
+                              "url": "https://www.swiggy.com/city/vijayawada/banglores-4am-donne-biryani-benz-circle-and-auto-nagar-rest961183"
+                            },
+                            {
+                              "label": "Vindhu Bhojanam",
+                              "url": "https://www.swiggy.com/city/vijayawada/vindhu-bhojanam-auto-nagar-rest592070"
+                            },
+                            {
+                              "label": "Theobroma",
+                              "url": "https://www.swiggy.com/city/vijayawada/theobroma-guru-nanak-colony-rest944439"
+                            },
+                            {
+                              "label": "Sweet Magic Mithai Shop",
+                              "url": "https://www.swiggy.com/city/vijayawada/sweet-magic-mithai-shop-labbipet-rest71350"
+                            },
+                            {
+                              "label": "Naidu Gari kunda Biryani",
+                              "url": "https://www.swiggy.com/city/vijayawada/naidu-gari-kunda-biryani-eluru-road--rest215862"
+                            },
+                            {
+                              "label": "Patamata Sai Hotel",
+                              "url": "https://www.swiggy.com/city/vijayawada/patamata-sai-hotel-krishna-nagar-rest510578"
+                            },
+                            {
+                              "label": "New Welcome Fast Foods",
+                              "url": "https://www.swiggy.com/city/vijayawada/new-welcome-fast-foods-islampet-rest685208"
+                            },
+                            {
+                              "label": "Food Republic",
+                              "url": "https://www.swiggy.com/city/vijayawada/food-republic-labbipet-rest68770"
+                            },
+                            {
+                              "label": "Haldiram's Restaurant",
+                              "url": "https://www.swiggy.com/city/vijayawada/haldirams-restaurant-gandhi-nagar-rest766291"
+                            },
+                            {
+                              "label": "Subbayya Gari Hotel",
+                              "url": "https://www.swiggy.com/city/vijayawada/subbayya-gari-hotel-governor-peta-rest561825"
+                            },
+                            {
+                              "label": "NR Tiffins and Meals",
+                              "url": "https://www.swiggy.com/city/vijayawada/nr-tiffins-and-meals-nrp-road-rest120864"
+                            },
+                            {
+                              "label": "Naidu Gari Kunda Biryani - Vijayawada",
+                              "url": "https://www.swiggy.com/city/vijayawada/naidu-gari-kunda-biryani-vijayawada-kamayyathopu-rest97786"
+                            },
+                            {
+                              "label": "Hotel Anjani",
+                              "url": "https://www.swiggy.com/city/vijayawada/hotel-anjani-governor-peta-rest295901"
+                            },
+                            {
+                              "label": "Idlee's",
+                              "url": "https://www.swiggy.com/city/vijayawada/idlees-state-bank-colony-rest70373"
+                            },
+                            {
+                              "label": "Sri Ramaiah Mess & Caterers",
+                              "url": "https://www.swiggy.com/city/vijayawada/sri-ramaiah-mess-and-caterers-governor-peta-rest315269"
+                            },
+                            {
+                              "label": "Hotel Abhi",
+                              "url": "https://www.swiggy.com/city/vijayawada/hotel-abhi-railway-hospital-rest722887"
+                            },
+                            {
+                              "label": "Good Morning Tea and Fast Food",
+                              "url": "https://www.swiggy.com/city/vijayawada/good-morning-tea-and-fast-food-museum-road-rest356756"
+                            },
+                            {
+                              "label": "Khaleel Bhai Family Restaurant",
+                              "url": "https://www.swiggy.com/city/vijayawada/khaleel-bhai-family-restaurant-benz-circle-and-auto-nagar-rest1001374"
+                            },
+                            {
+                              "label": "Telugu House",
+                              "url": "https://www.swiggy.com/city/vijayawada/telugu-house-benz-circle-and-auto-nagar-rest1149148"
+                            },
+                            {
+                              "label": "Andhra Rice Bowl",
+                              "url": "https://www.swiggy.com/city/vijayawada/andhra-rice-bowl-p-and-t-colony-rest336920"
+                            },
+                            {
+                              "label": "Cake Studio",
+                              "url": "https://www.swiggy.com/city/vijayawada/cake-studio-bharathi-nagar-rest440081"
+                            },
+                            {
+                              "label": "Udipi Aahar",
+                              "url": "https://www.swiggy.com/city/vijayawada/udipi-aahar-sharansh-rest796995"
+                            },
+                            {
+                              "label": "New Welcome Roti Ghar",
+                              "url": "https://www.swiggy.com/city/vijayawada/new-welcome-roti-ghar-moghalrajpuram-rest676355"
+                            },
+                            {
+                              "label": "Milap's Punjabi Hotel",
+                              "url": "https://www.swiggy.com/city/vijayawada/milaps-punjabi-hotel-one-town-rest284594"
+                            },
+                            {
+                              "label": "Gemini Bhavan",
+                              "url": "https://www.swiggy.com/city/vijayawada/gemini-bhavan-benz-circle-and-auto-nagar-rest1343866"
+                            },
+                            {
+                              "label": "Subway",
+                              "url": "https://www.swiggy.com/city/vijayawada/subway-surya-satya-apartments-rest76736"
+                            },
+                            {
+                              "label": "Smr Biryani",
+                              "url": "https://www.swiggy.com/city/vijayawada/smr-biryani-brts-road-rest306466"
+                            },
+                            {
+                              "label": "United Food Palace",
+                              "url": "https://www.swiggy.com/city/vijayawada/united-food-palace-benz-circle-and-auto-nagar-rest818771"
+                            },
+                            {
+                              "label": "La Pino'z Pizza",
+                              "url": "https://www.swiggy.com/city/vijayawada/la-pinoz-pizza-guru-nanak-colony-rest743894"
+                            },
+                            {
+                              "label": "Svaadishta",
+                              "url": "https://www.swiggy.com/city/vijayawada/svaadishta-kanuru-rest959066"
+                            },
+                            {
+                              "label": "Kaka Hotel",
+                              "url": "https://www.swiggy.com/city/vijayawada/kaka-hotel-ring-road-rest689410"
+                            },
+                            {
+                              "label": "RR Durbar",
+                              "url": "https://www.swiggy.com/city/vijayawada/rr-durbar-siddhartha-nagar--rest68611"
+                            },
+                            {
+                              "label": "KFC",
+                              "url": "https://www.swiggy.com/city/vijayawada/kfc-governor-peta-rest405028"
+                            },
+                            {
+                              "label": "Domino's Pizza",
+                              "url": "https://www.swiggy.com/city/vijayawada/dominos-pizza-mg-road-rest79547"
+                            },
+                            {
+                              "label": "Taco Bell",
+                              "url": "https://www.swiggy.com/city/vijayawada/taco-bell-labbipet-rest238434"
+                            },
+                            {
+                              "label": "UTK-United Telugu Kitchen",
+                              "url": "https://www.swiggy.com/city/vijayawada/utk-united-telugu-kitchen-moghalrajpuram-rest547014"
+                            }
+                          ]
+                        },
+                        {
+                          "title": "City Hub Page",
+                          "links": [
+                            {
+                              "label": "Bangalore",
+                              "url": "https://www.swiggy.com/city/bangalore/order-online"
+                            },
+                            {
+                              "label": "Hyderabad",
+                              "url": "https://www.swiggy.com/city/hyderabad/order-online"
+                            },
+                            {
+                              "label": "Mumbai",
+                              "url": "https://www.swiggy.com/city/mumbai/order-online"
+                            },
+                            {
+                              "label": "Chennai",
+                              "url": "https://www.swiggy.com/city/chennai/order-online"
+                            },
+                            {
+                              "label": "Delhi",
+                              "url": "https://www.swiggy.com/city/delhi/order-online"
+                            },
+                            {
+                              "label": "Pune",
+                              "url": "https://www.swiggy.com/city/pune/order-online"
+                            },
+                            {
+                              "label": "Kolkata",
+                              "url": "https://www.swiggy.com/city/kolkata/order-online"
+                            },
+                            {
+                              "label": "Gurgaon",
+                              "url": "https://www.swiggy.com/city/gurgaon/order-online"
+                            },
+                            {
+                              "label": "Noida 1",
+                              "url": "https://www.swiggy.com/city/noida-1/order-online"
+                            },
+                            {
+                              "label": "Kochi",
+                              "url": "https://www.swiggy.com/city/kochi/order-online"
+                            },
+                            {
+                              "label": "Ahmedabad",
+                              "url": "https://www.swiggy.com/city/ahmedabad/order-online"
+                            },
+                            {
+                              "label": "Chandigarh",
+                              "url": "https://www.swiggy.com/city/chandigarh/order-online"
+                            },
+                            {
+                              "label": "Coimbatore",
+                              "url": "https://www.swiggy.com/city/coimbatore/order-online"
+                            },
+                            {
+                              "label": "Jaipur",
+                              "url": "https://www.swiggy.com/city/jaipur/order-online"
+                            },
+                            {
+                              "label": "Lucknow",
+                              "url": "https://www.swiggy.com/city/lucknow/order-online"
+                            },
+                            {
+                              "label": "Thiruvananthapuram",
+                              "url": "https://www.swiggy.com/city/thiruvananthapuram/order-online"
+                            },
+                            {
+                              "label": "Vizag",
+                              "url": "https://www.swiggy.com/city/vizag/order-online"
+                            },
+                            {
+                              "label": "Central Goa",
+                              "url": "https://www.swiggy.com/city/central-goa/order-online"
+                            },
+                            {
+                              "label": "Noida",
+                              "url": "https://www.swiggy.com/city/noida/order-online"
+                            },
+                            {
+                              "label": "Surat",
+                              "url": "https://www.swiggy.com/city/surat/order-online"
+                            },
+                            {
+                              "label": "Bhubaneswar",
+                              "url": "https://www.swiggy.com/city/bhubaneswar/order-online"
+                            },
+                            {
+                              "label": "Indore",
+                              "url": "https://www.swiggy.com/city/indore/order-online"
+                            },
+                            {
+                              "label": "Nagpur",
+                              "url": "https://www.swiggy.com/city/nagpur/order-online"
+                            },
+                            {
+                              "label": "Vijayawada",
+                              "url": "https://www.swiggy.com/city/vijayawada/order-online"
+                            },
+                            {
+                              "label": "Patna",
+                              "url": "https://www.swiggy.com/city/patna/order-online"
+                            },
+                            {
+                              "label": "Guwahati",
+                              "url": "https://www.swiggy.com/city/guwahati/order-online"
+                            },
+                            {
+                              "label": "Ludhiana",
+                              "url": "https://www.swiggy.com/city/ludhiana/order-online"
+                            },
+                            {
+                              "label": "Vadodara",
+                              "url": "https://www.swiggy.com/city/vadodara/order-online"
+                            },
+                            {
+                              "label": "Mangaluru",
+                              "url": "https://www.swiggy.com/city/mangaluru/order-online"
+                            },
+                            {
+                              "label": "Mysore",
+                              "url": "https://www.swiggy.com/city/mysore/order-online"
+                            },
+                            {
+                              "label": "Dehradun",
+                              "url": "https://www.swiggy.com/city/dehradun/order-online"
+                            },
+                            {
+                              "label": "Faridabad",
+                              "url": "https://www.swiggy.com/city/faridabad/order-online"
+                            },
+                            {
+                              "label": "Thrissur",
+                              "url": "https://www.swiggy.com/city/thrissur/order-online"
+                            },
+                            {
+                              "label": "Bhopal",
+                              "url": "https://www.swiggy.com/city/bhopal/order-online"
+                            },
+                            {
+                              "label": "Rajkot",
+                              "url": "https://www.swiggy.com/city/rajkot/order-online"
+                            },
+                            {
+                              "label": "Madurai",
+                              "url": "https://www.swiggy.com/city/madurai/order-online"
+                            },
+                            {
+                              "label": "Kanpur",
+                              "url": "https://www.swiggy.com/city/kanpur/order-online"
+                            },
+                            {
+                              "label": "Kozhikode",
+                              "url": "https://www.swiggy.com/city/kozhikode/order-online"
+                            },
+                            {
+                              "label": "Pondicherry",
+                              "url": "https://www.swiggy.com/city/pondicherry/order-online"
+                            },
+                            {
+                              "label": "Varanasi",
+                              "url": "https://www.swiggy.com/city/varanasi/order-online"
+                            },
+                            {
+                              "label": "Nashik",
+                              "url": "https://www.swiggy.com/city/nashik/order-online"
+                            },
+                            {
+                              "label": "Tirupati",
+                              "url": "https://www.swiggy.com/city/tirupati/order-online"
+                            },
+                            {
+                              "label": "Guntur",
+                              "url": "https://www.swiggy.com/city/guntur/order-online"
+                            },
+                            {
+                              "label": "Trichy",
+                              "url": "https://www.swiggy.com/city/trichy/order-online"
+                            },
+                            {
+                              "label": "Kota",
+                              "url": "https://www.swiggy.com/city/kota/order-online"
+                            },
+                            {
+                              "label": "Raipur",
+                              "url": "https://www.swiggy.com/city/raipur/order-online"
+                            },
+                            {
+                              "label": "Kollam",
+                              "url": "https://www.swiggy.com/city/kollam/order-online"
+                            },
+                            {
+                              "label": "Vellore",
+                              "url": "https://www.swiggy.com/city/vellore/order-online"
+                            },
+                            {
+                              "label": "Ranchi",
+                              "url": "https://www.swiggy.com/city/ranchi/order-online"
+                            },
+                            {
+                              "label": "Jalandhar",
+                              "url": "https://www.swiggy.com/city/jalandhar/order-online"
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Popular Dish Restaurants in Vijayawada",
+                          "links": [
+                            {
+                              "label": "Biryani",
+                              "url": "https://www.swiggy.com/city/vijayawada/biryani-dish-restaurants"
+                            },
+                            {
+                              "label": "Dosa",
+                              "url": "https://www.swiggy.com/city/vijayawada/dosa-dish-restaurants"
+                            },
+                            {
+                              "label": "Idli",
+                              "url": "https://www.swiggy.com/city/vijayawada/idli-dish-restaurants"
+                            },
+                            {
+                              "label": "Pizza",
+                              "url": "https://www.swiggy.com/city/vijayawada/pizza-dish-restaurants"
+                            },
+                            {
+                              "label": "Fried rice",
+                              "url": "https://www.swiggy.com/city/vijayawada/fried-rice-dish-restaurants"
+                            },
+                            {
+                              "label": "Burger",
+                              "url": "https://www.swiggy.com/city/vijayawada/burger-dish-restaurants"
+                            },
+                            {
+                              "label": "Other rice varieties",
+                              "url": "https://www.swiggy.com/city/vijayawada/other-rice-varieties-dish-restaurants"
+                            },
+                            {
+                              "label": "Other dry starters",
+                              "url": "https://www.swiggy.com/city/vijayawada/other-dry-starters-dish-restaurants"
+                            },
+                            {
+                              "label": "Curry",
+                              "url": "https://www.swiggy.com/city/vijayawada/curry-dish-restaurants"
+                            },
+                            {
+                              "label": "Poori (Breakfast)",
+                              "url": "https://www.swiggy.com/city/vijayawada/poori-breakfast--dish-restaurants"
+                            },
+                            {
+                              "label": "Noodles",
+                              "url": "https://www.swiggy.com/city/vijayawada/noodles-dish-restaurants"
+                            },
+                            {
+                              "label": "Shawarma",
+                              "url": "https://www.swiggy.com/city/vijayawada/shawarma-dish-restaurants"
+                            },
+                            {
+                              "label": "Roll",
+                              "url": "https://www.swiggy.com/city/vijayawada/roll-dish-restaurants"
+                            },
+                            {
+                              "label": "Pulao",
+                              "url": "https://www.swiggy.com/city/vijayawada/pulao-dish-restaurants"
+                            },
+                            {
+                              "label": "Sandwich",
+                              "url": "https://www.swiggy.com/city/vijayawada/sandwich-dish-restaurants"
+                            },
+                            {
+                              "label": "Roti",
+                              "url": "https://www.swiggy.com/city/vijayawada/roti-dish-restaurants"
+                            },
+                            {
+                              "label": "Momos",
+                              "url": "https://www.swiggy.com/city/vijayawada/momos-dish-restaurants"
+                            },
+                            {
+                              "label": "Shake",
+                              "url": "https://www.swiggy.com/city/vijayawada/shake-dish-restaurants"
+                            },
+                            {
+                              "label": "Ice cream",
+                              "url": "https://www.swiggy.com/city/vijayawada/ice-cream-dish-restaurants"
+                            },
+                            {
+                              "label": "Thali",
+                              "url": "https://www.swiggy.com/city/vijayawada/thali-dish-restaurants"
+                            },
+                            {
+                              "label": "Pesarattu",
+                              "url": "https://www.swiggy.com/city/vijayawada/pesarattu-dish-restaurants"
+                            },
+                            {
+                              "label": "Taco",
+                              "url": "https://www.swiggy.com/city/vijayawada/taco-dish-restaurants"
+                            },
+                            {
+                              "label": "Pongal",
+                              "url": "https://www.swiggy.com/city/vijayawada/pongal-dish-restaurants"
+                            },
+                            {
+                              "label": "Vada",
+                              "url": "https://www.swiggy.com/city/vijayawada/vada-dish-restaurants"
+                            },
+                            {
+                              "label": "Cake",
+                              "url": "https://www.swiggy.com/city/vijayawada/cake-dish-restaurants"
+                            },
+                            {
+                              "label": "Paratha",
+                              "url": "https://www.swiggy.com/city/vijayawada/paratha-dish-restaurants"
+                            },
+                            {
+                              "label": "Manchurian",
+                              "url": "https://www.swiggy.com/city/vijayawada/manchurian-dish-restaurants"
+                            },
+                            {
+                              "label": "Pasta",
+                              "url": "https://www.swiggy.com/city/vijayawada/pasta-dish-restaurants"
+                            },
+                            {
+                              "label": "Upma",
+                              "url": "https://www.swiggy.com/city/vijayawada/upma-dish-restaurants"
+                            },
+                            {
+                              "label": "Other Sweets",
+                              "url": "https://www.swiggy.com/city/vijayawada/other-sweets-dish-restaurants"
+                            },
+                            {
+                              "label": "Mandi",
+                              "url": "https://www.swiggy.com/city/vijayawada/mandi-dish-restaurants"
+                            },
+                            {
+                              "label": "Sweets",
+                              "url": "https://www.swiggy.com/city/vijayawada/sweets-dish-restaurants"
+                            },
+                            {
+                              "label": "Nuggets",
+                              "url": "https://www.swiggy.com/city/vijayawada/nuggets-dish-restaurants"
+                            },
+                            {
+                              "label": "Uttapam",
+                              "url": "https://www.swiggy.com/city/vijayawada/uttapam-dish-restaurants"
+                            },
+                            {
+                              "label": "Salad",
+                              "url": "https://www.swiggy.com/city/vijayawada/salad-dish-restaurants"
+                            },
+                            {
+                              "label": "Pav bhaji",
+                              "url": "https://www.swiggy.com/city/vijayawada/pav-bhaji-dish-restaurants"
+                            },
+                            {
+                              "label": "Fries",
+                              "url": "https://www.swiggy.com/city/vijayawada/fries-dish-restaurants"
+                            },
+                            {
+                              "label": "Wings",
+                              "url": "https://www.swiggy.com/city/vijayawada/wings-dish-restaurants"
+                            },
+                            {
+                              "label": "Bath",
+                              "url": "https://www.swiggy.com/city/vijayawada/bath-dish-restaurants"
+                            },
+                            {
+                              "label": "Juice",
+                              "url": "https://www.swiggy.com/city/vijayawada/juice-dish-restaurants"
+                            },
+                            {
+                              "label": "Other chaats",
+                              "url": "https://www.swiggy.com/city/vijayawada/other-chaats-dish-restaurants"
+                            },
+                            {
+                              "label": "Soft drinks",
+                              "url": "https://www.swiggy.com/city/vijayawada/soft-drinks-dish-restaurants"
+                            },
+                            {
+                              "label": "Maggi",
+                              "url": "https://www.swiggy.com/city/vijayawada/maggi-dish-restaurants"
+                            },
+                            {
+                              "label": "Naan",
+                              "url": "https://www.swiggy.com/city/vijayawada/naan-dish-restaurants"
+                            },
+                            {
+                              "label": "Milk",
+                              "url": "https://www.swiggy.com/city/vijayawada/milk-dish-restaurants"
+                            },
+                            {
+                              "label": "Falooda",
+                              "url": "https://www.swiggy.com/city/vijayawada/falooda-dish-restaurants"
+                            },
+                            {
+                              "label": "Omelette",
+                              "url": "https://www.swiggy.com/city/vijayawada/omelette-dish-restaurants"
+                            },
+                            {
+                              "label": "Bhajji",
+                              "url": "https://www.swiggy.com/city/vijayawada/bhajji-dish-restaurants"
+                            },
+                            {
+                              "label": "Khichdi",
+                              "url": "https://www.swiggy.com/city/vijayawada/khichdi-dish-restaurants"
+                            },
+                            {
+                              "label": "Soup",
+                              "url": "https://www.swiggy.com/city/vijayawada/soup-dish-restaurants"
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Top QSR & Chains in Vijayawada",
+                          "links": [
+                            {
+                              "label": "Cream Stone Ice Cream",
+                              "url": "https://www.swiggy.com/city/vijayawada/cream-stone-ice-cream"
+                            },
+                            {
+                              "label": "La Pino'z Pizza",
+                              "url": "https://www.swiggy.com/city/vijayawada/la-pinoz-pizza"
+                            },
+                            {
+                              "label": "Haldiram's Restaurant",
+                              "url": "https://www.swiggy.com/city/vijayawada/haldirams-restaurant"
+                            },
+                            {
+                              "label": "Bigguys Wings & Burgers",
+                              "url": "https://www.swiggy.com/city/vijayawada/bigguys-wings-and-burgers"
+                            },
+                            {
+                              "label": "The Red Box",
+                              "url": "https://www.swiggy.com/city/vijayawada/the-red-box"
+                            },
+                            {
+                              "label": "Temptations",
+                              "url": "https://www.swiggy.com/city/vijayawada/temptations"
+                            },
+                            {
+                              "label": "AB's - Absolute Barbecues",
+                              "url": "https://www.swiggy.com/city/vijayawada/abs-absolute-barbecues"
+                            },
+                            {
+                              "label": "Dumont Creamery",
+                              "url": "https://www.swiggy.com/city/vijayawada/dumont-creamery"
+                            },
+                            {
+                              "label": "Warmoven Cake & Desserts",
+                              "url": "https://www.swiggy.com/city/vijayawada/warmoven-cake-and-desserts"
+                            },
+                            {
+                              "label": "Shero Home Food - Andhra",
+                              "url": "https://www.swiggy.com/city/vijayawada/shero-home-food-andhra"
+                            },
+                            {
+                              "label": "Kailash Parbat",
+                              "url": "https://www.swiggy.com/city/vijayawada/kailash-parbat"
+                            },
+                            {
+                              "label": "Polar bear",
+                              "url": "https://www.swiggy.com/city/vijayawada/polar-bear"
+                            },
+                            {
+                              "label": "The Dessert Zone",
+                              "url": "https://www.swiggy.com/city/vijayawada/the-dessert-zone"
+                            },
+                            {
+                              "label": "Kaati Zone Rolls & Wraps",
+                              "url": "https://www.swiggy.com/city/vijayawada/kaati-zone-rolls-and-wraps"
+                            },
+                            {
+                              "label": "Express By Ab's",
+                              "url": "https://www.swiggy.com/city/vijayawada/express-by-abs"
+                            },
+                            {
+                              "label": "Cream Stone Tubz",
+                              "url": "https://www.swiggy.com/city/vijayawada/cream-stone-tubz"
+                            },
+                            {
+                              "label": "Dumont Experimental Ice Creams",
+                              "url": "https://www.swiggy.com/city/vijayawada/dumont-experimental-ice-creams"
+                            },
+                            {
+                              "label": "Haldiram's Sweets and Namkeen",
+                              "url": "https://www.swiggy.com/city/vijayawada/haldirams-sweets-and-namkeen"
+                            },
+                            {
+                              "label": "Scoops Ice Cream",
+                              "url": "https://www.swiggy.com/city/vijayawada/scoops-ice-cream"
+                            },
+                            {
+                              "label": "Makers of Milkshakes",
+                              "url": "https://www.swiggy.com/city/vijayawada/makers-of-milkshakes"
+                            },
+                            {
+                              "label": "Rice Express By Shero",
+                              "url": "https://www.swiggy.com/city/vijayawada/rice-express-by-shero"
+                            },
+                            {
+                              "label": "Burger It Up",
+                              "url": "https://www.swiggy.com/city/vijayawada/burger-it-up"
+                            },
+                            {
+                              "label": "Momo Zone - The Momo Company",
+                              "url": "https://www.swiggy.com/city/vijayawada/momo-zone-the-momo-company"
+                            },
+                            {
+                              "label": "Cupcake Bliss Cake & Desserts",
+                              "url": "https://www.swiggy.com/city/vijayawada/cupcake-bliss-cake-and-desserts"
+                            },
+                            {
+                              "label": "Kouzina Kafe - The Food Court",
+                              "url": "https://www.swiggy.com/city/vijayawada/kouzina-kafe-the-food-court"
+                            },
+                            {
+                              "label": "Indiana Burgers",
+                              "url": "https://www.swiggy.com/city/vijayawada/indiana-burgers"
+                            },
+                            {
+                              "label": "Sundae Everyday Ice Creams",
+                              "url": "https://www.swiggy.com/city/vijayawada/sundae-everyday-ice-creams"
+                            },
+                            {
+                              "label": "Slurpy Shakes",
+                              "url": "https://www.swiggy.com/city/vijayawada/slurpy-shakes"
+                            },
+                            {
+                              "label": "Havmor Havfunn Ice Cream",
+                              "url": "https://www.swiggy.com/city/vijayawada/havmor-havfunn-ice-cream"
+                            },
+                            {
+                              "label": "Fruitoholic",
+                              "url": "https://www.swiggy.com/city/vijayawada/fruitoholic"
+                            },
+                            {
+                              "label": "Curry Home",
+                              "url": "https://www.swiggy.com/city/vijayawada/curry-home"
+                            },
+                            {
+                              "label": "Seoul Fried Chicken",
+                              "url": "https://www.swiggy.com/city/vijayawada/seoul-fried-chicken"
+                            },
+                            {
+                              "label": "Stone Spot Creamery",
+                              "url": "https://www.swiggy.com/city/vijayawada/stone-spot-creamery"
+                            },
+                            {
+                              "label": "Fruitoholic Ice Cream",
+                              "url": "https://www.swiggy.com/city/vijayawada/fruitoholic-ice-cream"
+                            },
+                            {
+                              "label": "Giani",
+                              "url": "https://www.swiggy.com/city/vijayawada/giani"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.SeoFooter",
+                      "socialLinks": [
+                        {
+                          "label": "Linkedin",
+                          "url": "https://www.linkedin.com/company/swiggy-in/"
+                        },
+                        {
+                          "label": "Instagram",
+                          "url": "https://www.instagram.com/swiggyindia/?hl=en"
+                        },
+                        {
+                          "label": "Facebook",
+                          "url": "https://www.facebook.com/swiggy.in/"
+                        },
+                        {
+                          "label": "Pinterest",
+                          "url": "https://in.pinterest.com/swiggyindia/"
+                        },
+                        {
+                          "label": "Twitter",
+                          "url": "https://twitter.com/Swiggy?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.AppInstallLinks",
+                      "title": "For better experience,download the Swiggy app now",
+                      "androidAppImage": "portal/m/play_store.png",
+                      "androidAppLink": "https://play.google.com/store/apps/details?id=in.swiggy.android&referrer=utm_source%3Dswiggy%26utm_medium%3Dheader",
+                      "iosAppImage": "portal/m/app_store.png",
+                      "iosAppLink": "https://itunes.apple.com/in/app/id989540920?referrer=utm_source%3Dswiggy%26utm_medium%3Dhomepage"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.PageMetaInfo",
+                      "title": "Order from Paradise Biryani online in Vijayawada | Swiggy",
+                      "description": "Order Online from Paradise Biryani in Labbipet, Vijayawada for delicious indian food. Enjoy fast delivery with Swiggy.",
+                      "keywords": "Paradise Biryani, Labbipet, Vijayawada, indian, food delivery, order food online"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "isQCLink": false
+  },
+  "tid": "eyJLSUQiOiIyIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3ODUzNDk5MjUsImlhdCI6MTc4NTM0NjMyNSwic2Vzc2lvbl9kYXRhIjoiZXpKVURKTTVIaFAydmg3V0loV2lnMEU0SmQ1YUpIem9BbnVvZk1leGpnbEF1cFBJU2FtVE94eGVnNm9DdzFIT1JuRG9hRGFpQm9BYkRodUJ5dEt1Q0dTVUs2NFNBcllXbWUzV082MUVzbGZiUFY1Q1dtRnRyalo0V25meE5WVm56cGxmVGsvOTZkU29yRUc3L1Q1SXg3aERCWUZGN3hNc1JhdTBlZGJJNURYU0NvMVFLSG1pbFJ0TjlHNVVyd3ZRSi9mOEZnRmE4c0R1b3h0d2M0NDBXdz09Iiwic2lkIjoic3JiNDY1NmI1NjItNTg1Mi00YzdlLTlkMmYtMWVjZTBlMWViIiwic3ViIjoiZGRmNGE2ZWMtYjg4MC00YzY3LWJkNGQtMjBhNDM5MzNjYWJiIiwidXNlcl9pZCI6IjAifQ.48OynSyWX1EpdAkEfv04gVppXQl3O1ovicrgXLzn9A4",
+  "sid": "srb4656b562-5852-4c7e-9d2f-1ece0e1eb",
+  "deviceId": "4655b1a3-bcb7-2ba5-d874-d91dda20cb04",
+  "csrfToken": "brTdfMirxHdD-etVJcfJAk9E-6aO2Koe2zwI6ZDQ"
+}
