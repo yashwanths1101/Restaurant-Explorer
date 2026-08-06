@@ -54,7 +54,7 @@ export const starIcon = (
           strokeLinecap: 'butt',
           strokeLinejoin: 'miter',
           strokeMiterlimit: 10,
-          fill: 'rgb(0,0,0)',
+          fill: 'rgb(253, 204, 13)',
           fillRule: 'nonzero',
           opacity: 1
         }}
