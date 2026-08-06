@@ -1,7 +1,7 @@
 import RestaurantCard from './RestaurantCard'
 import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
-import ShimmerUI from './ShimmerUI'
+import BodyShimmerUI from './BodyShimmerUI'
 import {
   RESTRO_IMAGE_URL,
   RESTAURANT_API,
@@ -25,7 +25,13 @@ const BodyComponent = () => {
   }
 
   const fetchData = async () => {
-    const response = await fetch('../../src/utils/restaurants/page-1.json')
+    const response = await new Promise(resolve =>
+      setTimeout(
+        resolve,
+        1200,
+        fetch('../../src/utils/restaurants/page-1.json')
+      )
+    )
     const json = await response.json()
     const restaurantList =
       json?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle?.restaurants
@@ -36,7 +42,7 @@ const BodyComponent = () => {
   }
 
   if (resList.length === 0) {
-    return <ShimmerUI />
+    return <BodyShimmerUI />
   }
 
   return (
