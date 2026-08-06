@@ -1,6 +1,8 @@
 import { useState, useEffect } from 'react'
 import { useParams, useLocation } from 'react-router-dom'
 import { RESTRO_IMAGE_URL, starIcon } from '../utils/constants.jsx'
+import MenuAccordian from './MenuAccordian.jsx'
+import default_restaurant_logo from '../assets/default_restaurant_logo.jpg'
 import SouthIndianMenu from '../utils/menu/SouthIndianMenu.json'
 import NorthIndianMenu from '../utils/menu/NorthIndianMenu.json'
 import BiryaniMenu from '../utils/menu/BiryaniMenu.json'
@@ -11,6 +13,7 @@ import PizzaMenu from '../utils/menu/PizzaMenu.json'
 import DesertsMenu from '../utils/menu/DesertsMenu.json'
 import BeveragesMenu from '../utils/menu/BeveragesMenu.json'
 import HealthyMenu from '../utils/menu/HealthyMenu.json'
+import MenuShimmerUI from './MenuShimmerUI.jsx'
 
 const cuisineCategoryMap = {
   'South Indian': 'SouthIndian',
@@ -87,8 +90,8 @@ const getMenu = cuisines => {
 }
 
 const RestaurantMenu = () => {
-  const { id } = useParams()
-  const { state } = useLocation()
+  const [menu, setMenu] = useState()
+  const { state } = useLocation() // THis does not work when the URL is opened separately
   console.log(state)
   const {
     name,
@@ -101,13 +104,27 @@ const RestaurantMenu = () => {
     veg
   } = state
   const { slaString: deliveryTime } = state?.sla
-  const menu = getMenu(cuisines)
+  useEffect(() => {
+    fetchMenu()
+  }, [])
 
+  const fetchMenu = async () => {
+    const response = await new Promise(resolve => {
+      setTimeout(resolve, 1200, getMenu(cuisines))
+    })
+    setMenu(response)
+  }
+  if (menu == null) return <MenuShimmerUI />
   return (
     <div className='restaurant-menu-container'>
       <div className='restaurant-menu-header'>
         <div className='restaurant-menu-image'>
-          <img src={RESTRO_IMAGE_URL + cloudinaryImageId}></img>
+          <img
+            src={RESTRO_IMAGE_URL + cloudinaryImageId}
+            onError={e => {
+              e.target.src = default_restaurant_logo
+            }}
+          ></img>
         </div>
 
         <div className='restaurant-menu-details'>
@@ -139,6 +156,10 @@ const RestaurantMenu = () => {
             )}
           </div>
         </div>
+
+        <div className='seperator'></div>
+
+        <MenuAccordian menu={menu} />
       </div>
     </div>
   )
