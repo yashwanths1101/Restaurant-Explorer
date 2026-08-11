@@ -371,3 +371,32 @@ html {
   height: 0.1rem;
   background-color: #d3d4d6;
 }
+
+.accordian-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.3rem;
+}
+
+.category-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.category-title-btn {
+  width: 100%;
+  background-color: inherit;
+  font-weight: bold;
+  font-size: 1.1rem;
+  border: none;
+  text-align: left;
+}
+
+.category-title-btn:hover {
+  cursor: pointer;
+}
+
+.menu-item {
+  padding-left: 1rem;
+}

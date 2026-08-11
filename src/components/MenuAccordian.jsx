@@ -20,7 +20,7 @@ const MenuAccordian = ({ menu }) => {
         return (
           <div className='category-container' key={category?.categoryId}>
             <button
-              className='category-title'
+              className='category-title-btn'
               onClick={() => {
                 setOpenCategory(
                   openCategory === category?.categoryId
