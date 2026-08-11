@@ -1,7 +1,7 @@
 import RestaurantCard from './RestaurantCard'
 import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
-import BodyShimmerUI from './BodyShimmerUI'
+import BodyShimmerUI from './Shimmer/BodyShimmerUI'
 import {
   RESTRO_IMAGE_URL,
   RESTAURANT_API,
