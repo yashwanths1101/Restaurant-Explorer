@@ -8,6 +8,7 @@ import PizzaMenu from '../utils/menu/PizzaMenu.json'
 import DesertsMenu from '../utils/menu/DesertsMenu.json'
 import BeveragesMenu from '../utils/menu/BeveragesMenu.json'
 import HealthyMenu from '../utils/menu/HealthyMenu.json'
+import { useEffect } from 'react'
 
 const cuisineCategoryMap = {
   'South Indian': 'SouthIndian',
@@ -80,10 +81,10 @@ const getMenu = cuisines => {
     }
   }
 
-  return NorthIndianMenu
+  return BiryaniMenu
 }
 
-const useRestaurantMenu = (menu, setMenu) => {
+const useRestaurantMenu = (menu, setMenu, cuisines) => {
   useEffect(() => {
     fetchMenu()
   }, [])

@@ -7,14 +7,14 @@ import {
   RESTAURANT_API,
   searchIcon
 } from '../utils/constants'
+import useFetchRestaurantData from '../utils/useFetchRestaurantData'
 
 const BodyComponent = () => {
   const [resList, setResList] = useState([])
   const [filteredList, setFilteredList] = useState([])
   const [searchQuery, setSearchQuery] = useState('')
-  useEffect(() => {
-    fetchData()
-  }, [])
+
+  useFetchRestaurantData(setResList, setFilteredList)
 
   const handleClick = () => {
     setFilteredList(
@@ -22,23 +22,6 @@ const BodyComponent = () => {
         return restaurant?.info?.avgRating >= 4.0
       })
     )
-  }
-
-  const fetchData = async () => {
-    const response = await new Promise(resolve =>
-      setTimeout(
-        resolve,
-        1200,
-        fetch('../../src/utils/restaurants/page-1.json')
-      )
-    )
-    const json = await response.json()
-    const restaurantList =
-      json?.data?.cards[2]?.card?.card?.gridElements?.infoWithStyle?.restaurants
-    setResList(restaurantList)
-    setFilteredList(restaurantList)
-
-    console.log(json)
   }
 
   if (resList.length === 0) {
