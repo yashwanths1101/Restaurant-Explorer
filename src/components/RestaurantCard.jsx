@@ -2,10 +2,15 @@ import { RESTRO_IMAGE_URL, starIcon } from '../utils/constants.jsx'
 import default_restaurant_logo from '../assets/Default_Restaurant_LOGO.jpg'
 
 const RestaurantCard = props => {
-  const { name, avgRating, cloudinaryImageId, costForTwo, cuisines } =
-    props?.data?.info
+  const {
+    name,
+    avgRating,
+    cloudinaryImageId,
+    costForTwo,
+    cuisines,
+    sla: { slaString: time }
+  } = props?.data?.info
 
-  const { slaString: time } = props?.data?.info?.sla
   return (
     <div className='restro-card'>
       <div className='restro-image'>

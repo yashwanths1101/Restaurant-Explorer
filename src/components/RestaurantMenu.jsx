@@ -10,8 +10,6 @@ const RestaurantMenu = () => {
   const [menu, setMenu] = useState()
   const { state } = useLocation() // THis does not work when the URL is opened separately
 
-  console.log(state)
-
   const {
     name,
     avgRating,

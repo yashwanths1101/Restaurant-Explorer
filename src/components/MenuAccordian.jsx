@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import MenuItem from './MenuItem'
 
 const MenuAccordian = ({ menu }) => {
   const cards = menu?.data?.cards[4].groupedCard.cardGroupMap.REGULAR.cards
@@ -10,9 +11,7 @@ const MenuAccordian = ({ menu }) => {
       'type.googleapis.com/swiggy.presentation.food.v2.ItemCategory'
     )
   })
-
   console.log(categories)
-
   return (
     <div className='accordian-container'>
       {categories.map(categoryData => {
@@ -29,17 +28,43 @@ const MenuAccordian = ({ menu }) => {
                 )
               }}
             >
-              {category?.title}
-            </button>
+              <span>{category?.title}</span>
 
-            {openCategory === category?.categoryId &&
-              category?.itemCards.map(item => {
-                return (
-                  <div className='menu-item' key={item?.card?.info?.id}>
-                    {item?.card?.info?.name}
-                  </div>
-                )
-              })}
+              {openCategory === category.categoryId ? (
+                <svg
+                  width='2rem'
+                  height='2rem'
+                  viewBox='0 0 24 24'
+                  fill='none'
+                  xmlns='http://www.w3.org/2000/svg'
+                >
+                  <path
+                    d='M16 14L12 10L8 14'
+                    stroke='#000000'
+                    strokeWidth='2'
+                    strokeLinecap='round'
+                    strokeLinejoin='round'
+                  />
+                </svg>
+              ) : (
+                <svg
+                  width='2rem'
+                  height='2rem'
+                  viewBox='0 0 24 24'
+                  fill='none'
+                  xmlns='http://www.w3.org/2000/svg'
+                >
+                  <path
+                    d='M8 10L12 14L16 10'
+                    stroke='#000000'
+                    strokeWidth='2'
+                    strokeLinecap='round'
+                    strokeLinejoin='round'
+                  />
+                </svg>
+              )}
+            </button>
+            <MenuItem category={category} openCategory={openCategory} />
           </div>
         )
       })}
